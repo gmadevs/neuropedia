@@ -6,4 +6,8 @@ color_scheme: dark
 url: https://gmadevs.github.io/neuropedia
 
 aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: https://github.com/gmadevs/neuropedia
+  Githup Repository: https://github.com/gmadevs/neuropedia
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html

@@ -1,7 +1,7 @@
 ---
-title: Anatomy
+title: Cranial nerves
 layout: default
-nav_order: 1
+nav_order: 2
 parent: Brain
 has_children: true
 ---
