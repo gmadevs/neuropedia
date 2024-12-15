@@ -1,9 +1,8 @@
 ---
-title: Vascular
+title: Liquoral hypotension
 layout: default
-nav_order: 3
-parent: Brain
-has_children: true
+nav_order: 2
+parent: CSF
 ---
 # Introduction to the Brain
 
