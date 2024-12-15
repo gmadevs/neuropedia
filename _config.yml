@@ -3,6 +3,8 @@ description: Neuroimaging resource based on Radiopaedia.org
 theme: just-the-docs
 color_scheme: dark
 
+favicon_ico: "/assets/images/favicon.ico"
+
 url: https://gmadevs.github.io/neuropedia
 
 aux_links: # remove if you don't want this link to appear on your pages
