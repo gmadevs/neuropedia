@@ -1,8 +1,8 @@
 ---
-title: Brain
+title: Anatomy
 layout: default
 nav_order: 1
-has_children: true
+parent: Brain
 ---
 # Introduction to the Brain
 

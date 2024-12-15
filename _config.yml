@@ -1,6 +1,7 @@
 title: NeuroPedia
 description: Neuroimaging resource based on Radiopaedia.org
 theme: just-the-docs
+color_scheme: dark
 
 url: https://gmadevs.github.io/neuropedia
 

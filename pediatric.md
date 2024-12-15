@@ -1,7 +1,7 @@
 ---
-title: Spine and peripheral
+title: Pediatric and fetal
 layout: default
-nav_order: 2
+nav_order: 3
 ---
 # Introduction to the Brain
 
