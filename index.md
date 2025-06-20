@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Hello World VitePress"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "NeuroPedia"
+  text: "Open-access neuroradiology textbook"
+  tagline: Based on radiopaedia.org
   actions:
     - theme: brand
       text: Markdown Examples
