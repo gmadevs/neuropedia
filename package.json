@@ -1,0 +1,13 @@
+{
+  "name": "hello-world-vitepress",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "docs:build": "vitepress build",
+    "preview": "vitepress preview",
+    "start": "npx -y serve .vitepress/dist"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.35"
+  }
+}
