@@ -5,14 +5,14 @@ layout: home
 hero:
   name: "NeuroPedia"
   text: "Open-access neuroradiology textbook"
-  tagline: Based on radiopaedia.org
+  tagline: My great project tagline
   actions:
     - theme: brand
       text: Markdown Examples
-      link: /docs/markdown-examples
+      link: /markdown-examples
     - theme: alt
       text: API Examples
-      link: /docs/api-examples
+      link: /api-examples
 
 features:
   - title: Feature A
