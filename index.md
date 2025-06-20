@@ -23,7 +23,8 @@ features:
     link: /pages/introduction
   - title: Incidental/anatomic variants
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Vascular pathology
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Cranial nerves
 ---
 
