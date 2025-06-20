@@ -5,19 +5,23 @@ layout: home
 hero:
   name: "NeuroPedia"
   text: "Open-access neuroradiology textbook"
-  tagline: My great project tagline
+  tagline: Based on radiopaedia.org
+  image:
+    src: /logo.png
+    alt: NeuroPedia
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Updates
+      link: /posts/june2025
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Updates
+      link: /posts/june2025
 
 features:
-  - title: Feature A
+  - title: Introduction
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+    link: /pages/introduction
+  - title: Incidental/anatomic variants
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
