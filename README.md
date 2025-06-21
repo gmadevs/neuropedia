@@ -1,3 +1,5 @@
+This repository contains the source code for NeuroPedia, built with VitePress. We welcome contributions from the community to help us expand and improve this valuable resource for neuroradiology.
+
 # About the project
 
 ## Welcome to NeuroPedia

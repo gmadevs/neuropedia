@@ -13,18 +13,34 @@ hero:
     - theme: brand
       text: Updates
       link: /posts/june2025
+    - theme: brand
+      text: Website legend
+      link: /legend
     - theme: alt
-      text: Updates
-      link: /posts/june2025
+      text: Useful links
+      link: /posts/links
 
 features:
   - title: Introduction
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: An introduction to neuroradiology, neurology and general radiological techniques
     link: /pages/introduction
+    icon:
+      src: /introduction.png
+      width: 24
+      height: 24
   - title: Incidental/anatomic variants
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Common incidental findings and anatomical variants
+    link: /pages/incidental
+    icon:
+      src: /incidental.png
+      width: 24
+      height: 24
   - title: Vascular pathology
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Cranial nerves
+    details: Pathologies of cerebral arteries and veins, including stroke and intraparenchimal hemorrhage
+    link: /pages/vascular
+    icon:
+      src: /vascular.png
+      width: 24
+      height: 24
 ---
 
