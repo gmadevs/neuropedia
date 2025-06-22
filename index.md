@@ -42,5 +42,29 @@ features:
       src: /vascular.png
       width: 24
       height: 24
+
+  - title: Cranial nerves and peripheral nervous system
+    details: Pathologies including neurovascular conflicts and peripheral nervous system
+    link: /pages/nerves
+    icon:
+      src: /nerves.png
+      width: 24
+      height: 24
+
+  - title: Trauma
+    details: Traumatic pathologies and sequelae of trauma
+    link: /pages/trauma
+    icon:
+      src: /trauma.png
+      width: 24
+      height: 24
+
+  - title: CSF
+    details: CSF pathologies, hydrocephalus and liquoral hypotension
+    link: /pages/CSF
+    icon:
+      src: /csf.png
+      width: 24
+      height: 24      
 ---
 
