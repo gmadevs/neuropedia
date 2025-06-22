@@ -65,6 +65,46 @@ features:
     icon:
       src: /csf.png
       width: 24
-      height: 24      
+      height: 24
+
+  - title: Inflammatory/autoimmune
+    details: Inflammatory and autoimmune disease, multiple sclerosis, MOGAD and autoimmune pathologies
+    link: /pages/inflammatory
+    icon:
+      src: /inflammatory.png
+      width: 24
+      height: 24    
+
+  - title: Infections
+    details: Infective diseases, bacterial, viral and other agents
+    link: /pages/infective
+    icon:
+      src: /infective.png
+      width: 24
+      height: 24
+
+  - title: Neuro-oncology
+    details: Primitive and secondary tumors of the CSN
+    link: /pages/neurooncology
+    icon:
+      src: /neurooncology.png
+      width: 24
+      height: 24 
+
+  - title: Spine
+    details: Spine degenerative and spinal cord disease
+    link: /pages/spine
+    icon:
+      src: /spine.png
+      width: 24
+      height: 24
+
+  - title: Orbit
+    details: Orbital pathologies
+    link: /pages/orbit
+    icon:
+      src: /orbit.png
+      width: 24
+      height: 24     
 ---
 
