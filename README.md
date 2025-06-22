@@ -1,3 +1,11 @@
+### 📊 Statistics
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/gmadevs/neuropedia)](https://github.com/gmadevs/neuropedia/commits)
+[![GitHub repo size](https://img.shields.io/github/repo-size/gmadevs/neuropedia)](https://github.com/gmadevs/neuropedia)
+[![GitHub contributors](https://img.shields.io/github/contributors/gmadevs/neuropedia)](https://github.com/gmadevs/neuropedia/graphs/contributors)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+
 This repository contains the source code for NeuroPedia, built with VitePress. We welcome contributions from the community to help us expand and improve this valuable resource for neuroradiology.
 
 # About the project
@@ -35,7 +43,6 @@ We value your feedback and suggestions! If you have any questions, ideas, or wou
 
 ![Awesome Project](https://img.shields.io/badge/awesome-project-green)  
 ![Build Status](https://img.shields.io/github/actions/workflow/status/gmadevs/neuropedia/ci.yml?branch=main)  
-![License](https://img.shields.io/github/license/gmadevs/neuropedia)  
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/gmadevs/neuropedia)  
 ![GitHub All Releases](https://img.shields.io/github/downloads/gmadevs/neuropedia/total)   
 ![PDF Available](https://img.shields.io/badge/PDF-Available-blue)  
