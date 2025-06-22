@@ -91,6 +91,22 @@ features:
       width: 24
       height: 24 
 
+  - title: Degenerative disease
+    details: Degenerative disease, movement disorders and dementia
+    link: /pages/degenerative
+    icon:
+      src: /degenerative.png
+      width: 24
+      height: 24 
+
+  - title: Epilepsy
+    details: Epilepsy associated pathologies and surgery
+    link: /pages/epilepsy
+    icon:
+      src: /epilepsy.png
+      width: 24
+      height: 24 
+
   - title: Spine
     details: Spine degenerative and spinal cord disease
     link: /pages/spine
@@ -105,6 +121,14 @@ features:
     icon:
       src: /orbit.png
       width: 24
-      height: 24     
+      height: 24   
+
+  - title: Pediatric
+    details: Pediatric and neonatal neuroradiology
+    link: /pages/pediatric
+    icon:
+      src: /pediatric.png
+      width: 24
+      height: 24  
 ---
 
