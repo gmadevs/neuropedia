@@ -30,3 +30,15 @@ We hope NeuroPedia becomes an indispensable ally in your journey of learning and
 ### Contact Us
 
 We value your feedback and suggestions! If you have any questions, ideas, or would like to contribute to NeuroPedia, please don't hesitate to reach out. You can edit the website by pulling an issue from the Github repository.
+
+## 🏅 Badges
+
+![Awesome Project](https://img.shields.io/badge/awesome-project-green)  
+![Build Status](https://img.shields.io/github/actions/workflow/status/gmadevs/neuropedia/ci.yml?branch=main)  
+![License](https://img.shields.io/github/license/gmadevs/neuropedia)  
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/gmadevs/neuropedia)  
+![GitHub All Releases](https://img.shields.io/github/downloads/gmadevs/neuropedia/total)   
+![PDF Available](https://img.shields.io/badge/PDF-Available-blue)  
+![Chapters](https://img.shields.io/badge/Chapters-0-blue)   
+![Creative Commons License](https://img.shields.io/badge/license-CC--BY--NC--SA%204.0-lightgrey)  
+![GitHub stars](https://img.shields.io/github/stars/gmadevs/neuropedia?style=social)  
