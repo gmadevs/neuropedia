@@ -2,7 +2,7 @@
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/gmadevs/neuropedia)](https://github.com/gmadevs/neuropedia/commits)
 [![GitHub repo size](https://img.shields.io/github/repo-size/gmadevs/neuropedia)](https://github.com/gmadevs/neuropedia)
-[![GitHub contributors](https://img.shields.io/github/contributors/gmadevs/neuropedia)](https://github.com/gmadevs/neuropedia/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/gmadevs/neuropedia)](https://github.com/gmadevs/neuropedia/graphs/contributors)  
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
