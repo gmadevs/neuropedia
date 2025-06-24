@@ -32,4 +32,4 @@ We hope NeuroPedia becomes an indispensable ally in your journey of learning and
 
 We value your feedback and suggestions! If you have any questions, ideas, or would like to contribute to NeuroPedia, please don't hesitate to reach out. You can edit the website by pulling an issue from the Github repository.
 
-Email: 
+Email: giorgiomaria.agazzi@gmail.com

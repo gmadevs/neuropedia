@@ -13,7 +13,9 @@ outline: deep
 ### Anterior circulation variants
 
 [Aberrant Internal Carotid Artery](https://radiopaedia.org/articles/aberrant-internal-carotid-artery)  
+[Persistent Primitive Olfactory Artery](https://radiopaedia.org/articles/persistent-primitive-olfactory-artery)    
 [Accessory Middle Cerebral Artery](https://radiopaedia.org/articles/accessory-middle-cerebral-artery)  
+[Persistent Dorsal Ophthalmic Artery](https://radiopaedia.org/articles/persistent-dorsal-ophthalmic-artery)  
 
 ### Posterior circulation variants
 

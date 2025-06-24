@@ -18,7 +18,7 @@ hero:
       link: /legend
     - theme: alt
       text: Useful links
-      link: /posts/links
+      link: /links
 
 features:
   - title: Introduction

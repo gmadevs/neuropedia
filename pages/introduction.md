@@ -154,6 +154,7 @@ next:
 [Foramen Singulare](https://radiopaedia.org/articles/foramen-singulare)  
 [Interscalar Septum](https://radiopaedia.org/articles/interscalar-septum)  
 [Porus Acusticus Internus](https://radiopaedia.org/articles/porus-acusticus-internus)
+[Sigmoid Plate](https://radiopaedia.org/articles/sigmoid-plate)  
 
 ### Brain sulci
 
@@ -212,7 +213,11 @@ next:
 [Superior Hypophyseal Artery](https://radiopaedia.org/articles/superior-hypophyseal-artery)
 [Inferior Hypophyseal Arterial Circle](https://radiopaedia.org/articles/inferior-hypophyseal-arterial-circle)    
 [Ophthalmic Artery](https://radiopaedia.org/articles/ophthalmic-artery)  
-[Anterior Communicating Artery](https://radiopaedia.org/articles/anterior-communicating-artery)
+[Posterior Ciliary Arteries](https://radiopaedia.org/articles/posterior-ciliary-arteries)  
+[Short Posterior Ciliary Arteries](https://radiopaedia.org/articles/short-posterior-ciliary-arteries)  
+[Long Posterior Ciliary Arteries](https://radiopaedia.org/articles/long-posterior-ciliary-arteries)  
+[Uncal Arteryl](https://radiopaedia.org/articles/uncal-artery)  
+[Anterior Communicating Artery](https://radiopaedia.org/articles/anterior-communicating-artery)  
 [Recurrent Artery Of Heubner](https://radiopaedia.org/articles/recurrent-artery-of-heubner-1)    
 [Medial Lenticulostriate Arteries](https://radiopaedia.org/articles/medial-lenticulostriate-arteries)  
 [Lateral Lenticulostriate Arteries](https://radiopaedia.org/articles/lateral-lenticulostriate-arteries)  
@@ -231,6 +236,8 @@ next:
 
 ##### Cerebral veins
 
+[Superior Anastomotic Vein](https://radiopaedia.org/articles/superior-anastomotic-vein)  
+[Inferior Anastomotic Vein](https://radiopaedia.org/articles/inferior-anastomotic-vein)  
 [Superficial Middle Cerebral Vein](https://radiopaedia.org/articles/superficial-middle-cerebral-vein)  
 [Superior Cerebral Veins](https://radiopaedia.org/articles/superior-cerebral-veins)  
 [Great Cerebral Vein](https://radiopaedia.org/articles/great-cerebral-vein-1)  
