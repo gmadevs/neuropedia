@@ -7,6 +7,7 @@ outline: deep
 ## Common brain anatomical variants
 
 [Cavum Septum Pellucidum](https://radiopaedia.org/articles/cavum-septum-pellucidum-3)  
+[Asymmetry Of The Lateral Ventricles](https://radiopaedia.org/articles/asymmetry-of-the-lateral-ventricles)  
 
 ## Vascular anatomical variants
 
@@ -15,6 +16,8 @@ outline: deep
 [Aberrant Internal Carotid Artery](https://radiopaedia.org/articles/aberrant-internal-carotid-artery)  
 [Persistent Primitive Olfactory Artery](https://radiopaedia.org/articles/persistent-primitive-olfactory-artery)    
 [Accessory Middle Cerebral Artery](https://radiopaedia.org/articles/accessory-middle-cerebral-artery)  
+[Duplicated Middle Cerebral Arteryl](https://radiopaedia.org/articles/duplicated-middle-cerebral-artery)  
+[Twig Like Middle Cerebral Artery](https://radiopaedia.org/articles/twig-like-middle-cerebral-artery)  
 [Persistent Dorsal Ophthalmic Artery](https://radiopaedia.org/articles/persistent-dorsal-ophthalmic-artery)  
 [Persistent Limbic Arch](https://radiopaedia.org/articles/persistent-limbic-arch)  
 [Middle Cerebral Artery Fenestration](https://radiopaedia.org/articles/middle-cerebral-artery-fenestration)  
