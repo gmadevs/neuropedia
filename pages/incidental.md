@@ -16,6 +16,8 @@ outline: deep
 [Persistent Primitive Olfactory Artery](https://radiopaedia.org/articles/persistent-primitive-olfactory-artery)    
 [Accessory Middle Cerebral Artery](https://radiopaedia.org/articles/accessory-middle-cerebral-artery)  
 [Persistent Dorsal Ophthalmic Artery](https://radiopaedia.org/articles/persistent-dorsal-ophthalmic-artery)  
+[Persistent Limbic Arch](https://radiopaedia.org/articles/persistent-limbic-arch)  
+[Middle Cerebral Artery Fenestration](https://radiopaedia.org/articles/middle-cerebral-artery-fenestration)  
 
 ### Posterior circulation variants
 
