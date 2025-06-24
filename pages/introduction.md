@@ -206,16 +206,22 @@ next:
 
 ##### Anterior circulation
 
-[Superior Hypophyseal Artery](https://radiopaedia.org/articles/superior-hypophyseal-artery)  
+[Caroticotympanic Artery](https://radiopaedia.org/articles/caroticotympanic-artery-2)  
+[Inferolateral Trunk](https://radiopaedia.org/articles/inferolateral-trunk-2)  
+[Meningohypophyseal Trunk](https://radiopaedia.org/articles/meningohypophyseal-trunk-1)  
+[Superior Hypophyseal Artery](https://radiopaedia.org/articles/superior-hypophyseal-artery)
+[Inferior Hypophyseal Arterial Circle](https://radiopaedia.org/articles/inferior-hypophyseal-arterial-circle)    
 [Ophthalmic Artery](https://radiopaedia.org/articles/ophthalmic-artery)  
-[Anterior Communicating Artery](https://radiopaedia.org/articles/anterior-communicating-artery)  
+[Anterior Communicating Artery](https://radiopaedia.org/articles/anterior-communicating-artery)
+[Recurrent Artery Of Heubner](https://radiopaedia.org/articles/recurrent-artery-of-heubner-1)    
 [Medial Lenticulostriate Arteries](https://radiopaedia.org/articles/medial-lenticulostriate-arteries)  
 [Lateral Lenticulostriate Arteries](https://radiopaedia.org/articles/lateral-lenticulostriate-arteries)  
-[Pericallosal Arteryl](https://radiopaedia.org/articles/pericallosal-artery)  
+[Pericallosal Artery](https://radiopaedia.org/articles/pericallosal-artery)  
 [Pericallosal Moustache](https://radiopaedia.org/articles/pericallosal-moustache)  
 
 ##### Posterior circulation
 
+[Anterior Meningeal Artery](https://radiopaedia.org/articles/anterior-meningeal-artery-1)  
 [Posterior Inferior Cerebellar Artery](https://radiopaedia.org/articles/posterior-inferior-cerebellar-artery)  
 [Anterior Inferior Cerebellar Artery](https://radiopaedia.org/articles/anterior-inferior-cerebellar-artery)  
 [Superior Cerebellar Artery](https://radiopaedia.org/articles/superior-cerebellar-artery)  
@@ -248,12 +254,27 @@ next:
 
 [Anterior Spinal Artery](https://radiopaedia.org/articles/anterior-spinal-artery)  
 
+### CSF anatomy and cisterns
+
+[Superior Cerebellar Cistern](https://radiopaedia.org/articles/superior-cerebellar-cistern)  
+
 ### Cranial nerves
 
 [Internal Auditory Canal Nerves Mnemonic](https://radiopaedia.org/articles/internal-auditory-canal-nerves-mnemonic)  
 [Greater Superficial Petrosal Nerve](https://radiopaedia.org/articles/greater-superficial-petrosal-nerve)  
 [Posterior Auricular Nerve](https://radiopaedia.org/articles/posterior-auricular-nerve)  
 [Meyer Loop](https://radiopaedia.org/articles/meyer-loop)  
+
+### Peripheral nerves
+
+[Brachial Plexus Root Subdivisions Mnemonic](https://radiopaedia.org/articles/brachial-plexus-root-subdivisions-mnemonic)  
+[Autonomic Ganglia And Plexuses](https://radiopaedia.org/articles/autonomic-ganglia-and-plexuses)  
+[Thoracic Splanchnic Nerves](https://radiopaedia.org/articles/thoracic-splanchnic-nerves)  
+[Aorticorenal Plexus](https://radiopaedia.org/articles/aorticorenal-plexus)  
+[Hepatic Plexus](https://radiopaedia.org/articles/hepatic-plexus)  
+[Coeliac Plexus](https://radiopaedia.org/articles/coeliac-plexus)  
+[Phrenic Plexus](https://radiopaedia.org/articles/phrenic-plexus)  
+[Renal Plexus](https://radiopaedia.org/articles/renal-plexus)  
 
 ### Ascending and descending pathways
 
