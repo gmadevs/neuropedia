@@ -126,6 +126,14 @@ features:
       width: 24
       height: 24   
 
+  - title: Temporal bone
+    details: Temporal bone pathologies
+    link: /pages/temporal
+    icon:
+      src: /temporal.png
+      width: 24
+      height: 24   
+
   - title: Pediatric
     details: Pediatric and neonatal neuroradiology
     link: /pages/pediatric

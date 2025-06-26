@@ -9,3 +9,4 @@ outline: deep
 [Neurovascular Compression Syndromes](https://radiopaedia.org/articles/neurovascular-compression-syndromes)  
 [Vertebral Artery Compression Of The Medulla Syndrome Vamcs](https://radiopaedia.org/articles/vertebral-artery-compression-of-the-medulla-syndrome-vamcs)  
 [Vestibular Paroxysmia](https://radiopaedia.org/articles/vestibular-paroxysmia)  
+[Vernet Syndrome](https://radiopaedia.org/articles/vernet-syndrome)  
