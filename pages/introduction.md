@@ -398,6 +398,7 @@ next:
 [Anterior Pontomesencephalic Vein](https://radiopaedia.org/articles/anterior-pontomesencephalic-vein)  
 [Lateral Mesencephalic Vein](https://radiopaedia.org/articles/lateral-mesencephalic-vein)  
 [Jugular Bulb](https://radiopaedia.org/articles/jugular-bulb)  
+[Anterior Condylar Confluence](https://radiopaedia.org/articles/anterior-condylar-confluence)  
 [Superior Vermian Vein](https://radiopaedia.org/articles/superior-vermian-vein)  
 [Superior Cerebellar Vein](https://radiopaedia.org/articles/superior-cerebellar-vein)  
 [Precentral Cerebellar Vein](https://radiopaedia.org/articles/precentral-cerebellar-vein)  
@@ -425,6 +426,7 @@ next:
 [Inferior Petrosal Sinus](https://radiopaedia.org/articles/inferior-petrosal-sinus)  
 [Intercavernous Sinus](https://radiopaedia.org/articles/intercavernous-sinus)  
 [Cavernous Sinus Contents Mnemonic](https://radiopaedia.org/articles/cavernous-sinus-contents-mnemonic)  
+[Suboccipital Cavernous Sinus](https://radiopaedia.org/articles/suboccipital-cavernous-sinus)  
 [Basilar Venous Plexus](https://radiopaedia.org/articles/basilar-venous-plexus)  
 
 #### Spine vascularization
@@ -480,6 +482,8 @@ next:
 
 #### Cranial nerves anatomy
 
+[Scalp Nerve Supply Mnemonic](https://radiopaedia.org/articles/scalp-nerve-supply-mnemonic)  
+[Wilbrand Knee Optic Radiation](https://radiopaedia.org/articles/wilbrand-knee-optic-radiation)  
 [Internal Auditory Canal Nerves Mnemonic](https://radiopaedia.org/articles/internal-auditory-canal-nerves-mnemonic)  
 [Greater Superficial Petrosal Nerve](https://radiopaedia.org/articles/greater-superficial-petrosal-nerve)  
 [External Petrosal Nerve](https://radiopaedia.org/articles/external-petrosal-nerve)  
