@@ -21,7 +21,7 @@ hero:
       link: /links
     - theme: alt
       text: Statistics
-      link: /statistics
+      link: /pages/analysis_report
 
 features:
   - title: Introduction
