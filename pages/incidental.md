@@ -6,6 +6,12 @@ outline: deep
 
 ## Common brain anatomical variants
 
+### Skull vault
+
+[Bilateral Thinning Of The Parietal Bones](https://radiopaedia.org/articles/bilateral-thinning-of-the-parietal-bones)  
+
+### Brain
+
 [Cavum Septum Pellucidum](https://radiopaedia.org/articles/cavum-septum-pellucidum-3)  
 [Asymmetry Of The Lateral Ventricles](https://radiopaedia.org/articles/asymmetry-of-the-lateral-ventricles)  
 
@@ -13,6 +19,7 @@ outline: deep
 
 ### Anterior circulation variants
 
+[Persistent Communications Between The Carotid And Vertebrobasilar Arteries Mnemonic](https://radiopaedia.org/articles/persistent-communications-between-the-carotid-and-vertebrobasilar-arteries-mnemonic)  
 [Aberrant Internal Carotid Artery](https://radiopaedia.org/articles/aberrant-internal-carotid-artery)  
 [Persistent Primitive Olfactory Artery](https://radiopaedia.org/articles/persistent-primitive-olfactory-artery)    
 [Accessory Middle Cerebral Artery](https://radiopaedia.org/articles/accessory-middle-cerebral-artery)  
@@ -26,6 +33,7 @@ outline: deep
 
 [Anterior Inferior Cerebellar Artery Loop](https://radiopaedia.org/articles/anterior-inferior-cerebellar-artery-loop)  
 [Dolichoectasia](https://radiopaedia.org/articles/dolichoectasia-1)  
+[Basilar Artery Hypoplasia](https://radiopaedia.org/articles/basilar-artery-hypoplasia)  
 [Posterior Communicating Artery Duplication](https://radiopaedia.org/articles/posterior-communicating-artery-duplication)  
 [Posterior Communicating Artery Hypoplasia](https://radiopaedia.org/articles/posterior-communicating-artery-hypoplasia-1)  
 [Proatlantal Artery](https://radiopaedia.org/articles/proatlantal-artery)  
