@@ -19,6 +19,9 @@ hero:
     - theme: alt
       text: Useful links
       link: /links
+    - theme: alt
+      text: Statistics
+      link: /statistics
 
 features:
   - title: Introduction
