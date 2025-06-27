@@ -28,12 +28,15 @@ outline: deep
 [Suboccipital Rind Sign](https://radiopaedia.org/articles/suboccipital-rind-sign)  
 [Stasis Filling](https://radiopaedia.org/articles/stasis-filling)  
 [Embolic Shower](https://radiopaedia.org/articles/embolic-shower-1)  
-[Central Retinal Artery Occlusion](https://radiopaedia.org/articles/central-retinal-artery-occlusion-1)  
-[Orbital Infarction Syndrome](https://radiopaedia.org/articles/orbital-infarction-syndrome)  
+[Heidelberg Bleeding Classification](https://radiopaedia.org/articles/heidelberg-bleeding-classification-1)  
 
 ## Anoxyc damage and cerebral death
 
 [Anoxic Brain Injury](https://radiopaedia.org/articles/anoxic-brain-injury)  
+
+## Haemorrhagic stroke
+
+[Haemorrhagic Stroke Summary](https://radiopaedia.org/articles/haemorrhagic-stroke-summary)  
 
 ## Cerebral aneurysm
 
@@ -42,3 +45,4 @@ outline: deep
 [Ruptured Saccular Aneurysm](https://radiopaedia.org/articles/ruptured-saccular-aneurysm)  
 [Endosaccular Flow Disruption Devices](https://radiopaedia.org/articles/endosaccular-flow-disruption-devices)  
 [Non Ischaemic Cerebral Enhancing Nice Lesions](https://radiopaedia.org/articles/non-ischaemic-cerebral-enhancing-nice-lesions)  
+[Cerebral Varix](https://radiopaedia.org/articles/cerebral-varix)  

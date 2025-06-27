@@ -1,6 +1,6 @@
 # Markdown Files Analysis Report
 
-Report generated on 2025-06-26 17:10:29.
+Report generated on 2025-06-27 14:36:41.
 
 ---
 ## Summary of Links per File
@@ -12,9 +12,9 @@ Below is a bar plot visualizing the number of links found in each Markdown file,
 ---
 ## Detailed File Analysis
 
-### File: `csf.md`
+### File: `analysis_report.md`
 
-- **Number of Links**: 9
+- **Number of Links**: 1
 
 - **Headings (Chapters) by Level**:
 
@@ -22,15 +22,33 @@ Below is a bar plot visualizing the number of links found in each Markdown file,
 
   - `##` (Level 2): 2 chapters
 
+  - `###` (Level 3): 15 chapters
 
 
-### File: `degenerative.md`
 
-- **Number of Links**: 0
+### File: `csf.md`
+
+- **Number of Links**: 10
 
 - **Headings (Chapters) by Level**:
 
   - `#` (Level 1): 1 chapters
+
+  - `##` (Level 2): 3 chapters
+
+
+
+### File: `degenerative.md`
+
+- **Number of Links**: 1
+
+- **Headings (Chapters) by Level**:
+
+  - `#` (Level 1): 1 chapters
+
+  - `##` (Level 2): 1 chapters
+
+  - `###` (Level 3): 1 chapters
 
 
 
@@ -48,7 +66,7 @@ Below is a bar plot visualizing the number of links found in each Markdown file,
 
 ### File: `incidental.md`
 
-- **Number of Links**: 24
+- **Number of Links**: 30
 
 - **Headings (Chapters) by Level**:
 
@@ -56,19 +74,19 @@ Below is a bar plot visualizing the number of links found in each Markdown file,
 
   - `##` (Level 2): 3 chapters
 
-  - `###` (Level 3): 4 chapters
+  - `###` (Level 3): 5 chapters
 
 
 
 ### File: `infective.md`
 
-- **Number of Links**: 9
+- **Number of Links**: 10
 
 - **Headings (Chapters) by Level**:
 
   - `#` (Level 1): 1 chapters
 
-  - `##` (Level 2): 3 chapters
+  - `##` (Level 2): 4 chapters
 
 
 
@@ -86,15 +104,15 @@ Below is a bar plot visualizing the number of links found in each Markdown file,
 
 ### File: `introduction.md`
 
-- **Number of Links**: 554
+- **Number of Links**: 615
 
 - **Headings (Chapters) by Level**:
 
   - `#` (Level 1): 1 chapters
 
-  - `##` (Level 2): 10 chapters
+  - `##` (Level 2): 11 chapters
 
-  - `###` (Level 3): 21 chapters
+  - `###` (Level 3): 26 chapters
 
   - `####` (Level 4): 13 chapters
 
@@ -116,13 +134,13 @@ Below is a bar plot visualizing the number of links found in each Markdown file,
 
 ### File: `neurooncology.md`
 
-- **Number of Links**: 18
+- **Number of Links**: 86
 
 - **Headings (Chapters) by Level**:
 
   - `#` (Level 1): 1 chapters
 
-  - `##` (Level 2): 9 chapters
+  - `##` (Level 2): 18 chapters
 
   - `###` (Level 3): 1 chapters
 
@@ -130,19 +148,19 @@ Below is a bar plot visualizing the number of links found in each Markdown file,
 
 ### File: `orbit.md`
 
-- **Number of Links**: 5
+- **Number of Links**: 10
 
 - **Headings (Chapters) by Level**:
 
   - `#` (Level 1): 1 chapters
 
-  - `##` (Level 2): 2 chapters
+  - `##` (Level 2): 4 chapters
 
 
 
 ### File: `pediatric.md`
 
-- **Number of Links**: 28
+- **Number of Links**: 30
 
 - **Headings (Chapters) by Level**:
 
@@ -190,12 +208,12 @@ Below is a bar plot visualizing the number of links found in each Markdown file,
 
 ### File: `vascular.md`
 
-- **Number of Links**: 27
+- **Number of Links**: 31
 
 - **Headings (Chapters) by Level**:
 
   - `#` (Level 1): 1 chapters
 
-  - `##` (Level 2): 2 chapters
+  - `##` (Level 2): 4 chapters
 
 
