@@ -30,7 +30,7 @@ export default defineConfig({
  // --- Inizio Modifiche Sidebar ---
     sidebar: [
       {
-        text: 'Brain',
+        text: 'Brain and spine',
         items: [
           // Tutti i link devono iniziare con '/'
           { text: 'Introduction', link: '/pages/introduction' },
@@ -49,7 +49,18 @@ export default defineConfig({
           { text: 'Temporal bone', link: '/pages/temporal' },
           { text: 'Pediatric', link: '/pages/pediatric' }
         ]
+      },
+
+      {
+
+        text: 'Head and neck',
+        items: [
+
+          { text: 'Introduction', link: '/pages/introduction' },
+
+        ]
       }
+
     ],
 
     socialLinks: [

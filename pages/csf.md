@@ -18,3 +18,7 @@ outline: deep
 [C1 C2 False Localising Sign Spine](https://radiopaedia.org/articles/c1-c2-false-localising-sign-spine)  
 [Frontotemporal Brain Sagging Syndrome](https://radiopaedia.org/articles/frontotemporal-brain-sagging-syndrome)  
 [Layer Cake Skull](https://radiopaedia.org/articles/layer-cake-skull)  
+
+## Hydrocephalus
+
+[Hydrocephalus Vs Atrophy](https://radiopaedia.org/articles/hydrocephalus-vs-atrophy-4)  

@@ -4,6 +4,9 @@ outline: deep
 
 # Infective disease
 
+## Pyogenic bacteria
+
+[Pituitary Abscess](https://radiopaedia.org/articles/pituitary-abscess)  
 
 ## Tuberculosis and atypical bacteria
 

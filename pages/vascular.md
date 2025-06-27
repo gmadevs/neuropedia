@@ -28,6 +28,12 @@ outline: deep
 [Suboccipital Rind Sign](https://radiopaedia.org/articles/suboccipital-rind-sign)  
 [Stasis Filling](https://radiopaedia.org/articles/stasis-filling)  
 [Embolic Shower](https://radiopaedia.org/articles/embolic-shower-1)  
+[Central Retinal Artery Occlusion](https://radiopaedia.org/articles/central-retinal-artery-occlusion-1)  
+[Orbital Infarction Syndrome](https://radiopaedia.org/articles/orbital-infarction-syndrome)  
+
+## Anoxyc damage and cerebral death
+
+[Anoxic Brain Injury](https://radiopaedia.org/articles/anoxic-brain-injury)  
 
 ## Cerebral aneurysm
 
