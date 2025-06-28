@@ -22,6 +22,9 @@ hero:
     - theme: alt
       text: Statistics
       link: /pages/analysis_report
+    - theme: alt
+      text: To-do list
+      link: /todo
 
 features:
   - title: Introduction
