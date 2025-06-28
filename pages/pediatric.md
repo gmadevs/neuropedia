@@ -33,6 +33,16 @@ outline: deep
 [Congenital Cerebral Toxoplasmosis](https://radiopaedia.org/articles/congenital-cerebral-toxoplasmosis)  
 [Neonatal Herpes Simplex Encephalitis](https://radiopaedia.org/articles/neonatal-herpes-simplex-encephalitis)  
 
+## Vascular disease
+
+### Stroke and arteriopathies
+
+[Focal Cerebral Arteriopathy Of Childhood](https://radiopaedia.org/articles/focal-cerebral-arteriopathy-of-childhood)  
+
+### Haemorrhagic disease
+
+[Subpial Haemorrhage](https://radiopaedia.org/articles/subpial-haemorrhage)  
+
 ## Genetic diseases
 
 [Coach Syndrome](https://radiopaedia.org/articles/coach-syndrome)  
