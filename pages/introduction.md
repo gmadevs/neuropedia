@@ -760,7 +760,12 @@ next:
 
 ## Neurosurgical procedures
 
+[Trepanation](https://radiopaedia.org/articles/trepanation)  
 [Subdural Drain](https://radiopaedia.org/articles/subdural-drain)  
+[Decompressive Craniectomy](https://radiopaedia.org/articles/decompressive-craniectomy)  
+[Laser Interstitial Thermal Therapy](https://radiopaedia.org/articles/laser-interstitial-thermal-therapy)  
+[5 Ala Fluorescence Guided Surgery](https://radiopaedia.org/articles/5-ala-fluorescence-guided-surgery)  
+[Microvascular Decompression](https://radiopaedia.org/articles/microvascular-decompression-1)  
 
 ### Neurosurgical devices
 

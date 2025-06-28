@@ -12,6 +12,8 @@ outline: deep
 
 ## Brain trauma
 
+[Extradural Haemorrhage Venous](https://radiopaedia.org/articles/extradural-haemorrhage-venous)  
+[Calcified Chronic Subdural Haematoma](https://radiopaedia.org/articles/calcified-chronic-subdural-haematoma)  
 [Diffuse Axonal Injury Grading](https://radiopaedia.org/articles/diffuse-axonal-injury-grading-1)  
 
 ## Complications of trauma
