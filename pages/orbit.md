@@ -11,8 +11,10 @@ outline: deep
 ## General ocular pathology
 
 [Epiphora](https://radiopaedia.org/articles/epiphora)  
+[Pseudoproptosis](https://radiopaedia.org/articles/pseudoproptosis)  
 [Glaucoma](https://radiopaedia.org/articles/glaucoma)  
 [Enucleation](https://radiopaedia.org/articles/enucleation)  
+[Optic Disc Oedema](https://radiopaedia.org/articles/optic-disc-oedema)  
 
 ## Vascular pathologies
 
@@ -34,13 +36,16 @@ outline: deep
 [Orbital Meningioma](https://radiopaedia.org/articles/orbital-meningioma)  
 [Primary Uveal Malignant Melanoma](https://radiopaedia.org/articles/primary-uveal-malignant-melanoma)  
 [Optic Nerve Sheath Meningioma](https://radiopaedia.org/articles/optic-nerve-sheath-meningioma)  
+[Doughnut Sign Orbit](https://radiopaedia.org/articles/doughnut-sign-orbit)  
 [Medulloepithelioma Of The Optic Disc And Optic Nerve](https://radiopaedia.org/articles/medulloepithelioma-of-the-optic-disc-and-optic-nerve)  
 
 ## Surgery
 
 [Intraocular Lens Implant](https://radiopaedia.org/articles/intraocular-lens-implant)  
 [Aphakia](https://radiopaedia.org/articles/aphakia)  
+[Scleral Buckle](https://radiopaedia.org/articles/scleral-buckle)  
 
-## Congenital anomalies
+## Congenital and genetic anomalies
 
 [Morning Glory Syndrome Eye](https://radiopaedia.org/articles/morning-glory-syndrome-eye)  
+[Leber Hereditary Optic Neuropathy](https://radiopaedia.org/articles/leber-hereditary-optic-neuropathy-1)  

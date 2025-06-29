@@ -7,6 +7,7 @@ outline: deep
 ## Ischaemic stroke
 
 [Ascod Classification Ischaemic Stroke](https://radiopaedia.org/articles/ascod-classification-ischaemic-stroke)  
+[Canadian Neurological Scale](https://radiopaedia.org/articles/canadian-neurological-scale)  
 [Code Stroke Ct An Approach](https://radiopaedia.org/articles/code-stroke-ct-an-approach)  
 [Stroke Protocol Ct](https://radiopaedia.org/articles/stroke-protocol-ct)  
 [Ct Angiography Of The Circle Of Willis Protocol](https://radiopaedia.org/articles/ct-angiography-of-the-circle-of-willis-protocol)  

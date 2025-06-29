@@ -41,6 +41,7 @@ outline: deep
 
 [Anterior Inferior Cerebellar Artery Loop](https://radiopaedia.org/articles/anterior-inferior-cerebellar-artery-loop)  
 [Dolichoectasia](https://radiopaedia.org/articles/dolichoectasia-1)  
+[Smokers Criteria](https://radiopaedia.org/articles/smokers-criteria)  
 [Basilar Artery Hypoplasia](https://radiopaedia.org/articles/basilar-artery-hypoplasia)  
 [Posterior Communicating Artery Duplication](https://radiopaedia.org/articles/posterior-communicating-artery-duplication)  
 [Posterior Communicating Artery Hypoplasia](https://radiopaedia.org/articles/posterior-communicating-artery-hypoplasia-1)  

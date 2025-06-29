@@ -1,6 +1,6 @@
 # Markdown Files Analysis Report
 
-Report generated on 2025-06-28 20:31:37.
+Report generated on 2025-06-29 20:02:11.
 
 ---
 ## Summary of Links per File
@@ -66,7 +66,7 @@ Below is a bar plot visualizing the number of links found in each Markdown file,
 
 ### File: `incidental.md`
 
-- **Number of Links**: 30
+- **Number of Links**: 31
 
 - **Headings (Chapters) by Level**:
 
@@ -92,19 +92,19 @@ Below is a bar plot visualizing the number of links found in each Markdown file,
 
 ### File: `inflammatory.md`
 
-- **Number of Links**: 3
+- **Number of Links**: 4
 
 - **Headings (Chapters) by Level**:
 
   - `#` (Level 1): 1 chapters
 
-  - `##` (Level 2): 2 chapters
+  - `##` (Level 2): 3 chapters
 
 
 
 ### File: `introduction.md`
 
-- **Number of Links**: 615
+- **Number of Links**: 635
 
 - **Headings (Chapters) by Level**:
 
@@ -122,13 +122,13 @@ Below is a bar plot visualizing the number of links found in each Markdown file,
 
 ### File: `nerves.md`
 
-- **Number of Links**: 4
+- **Number of Links**: 10
 
 - **Headings (Chapters) by Level**:
 
   - `#` (Level 1): 1 chapters
 
-  - `##` (Level 2): 1 chapters
+  - `##` (Level 2): 3 chapters
 
 
 
@@ -148,25 +148,25 @@ Below is a bar plot visualizing the number of links found in each Markdown file,
 
 ### File: `orbit.md`
 
-- **Number of Links**: 11
+- **Number of Links**: 20
 
 - **Headings (Chapters) by Level**:
 
   - `#` (Level 1): 1 chapters
 
-  - `##` (Level 2): 4 chapters
+  - `##` (Level 2): 7 chapters
 
 
 
 ### File: `pediatric.md`
 
-- **Number of Links**: 33
+- **Number of Links**: 37
 
 - **Headings (Chapters) by Level**:
 
   - `#` (Level 1): 1 chapters
 
-  - `##` (Level 2): 8 chapters
+  - `##` (Level 2): 10 chapters
 
   - `###` (Level 3): 6 chapters
 
@@ -174,13 +174,13 @@ Below is a bar plot visualizing the number of links found in each Markdown file,
 
 ### File: `spine.md`
 
-- **Number of Links**: 2
+- **Number of Links**: 5
 
 - **Headings (Chapters) by Level**:
 
   - `#` (Level 1): 1 chapters
 
-  - `##` (Level 2): 1 chapters
+  - `##` (Level 2): 2 chapters
 
 
 
@@ -196,7 +196,7 @@ Below is a bar plot visualizing the number of links found in each Markdown file,
 
 ### File: `trauma.md`
 
-- **Number of Links**: 7
+- **Number of Links**: 9
 
 - **Headings (Chapters) by Level**:
 
@@ -208,7 +208,7 @@ Below is a bar plot visualizing the number of links found in each Markdown file,
 
 ### File: `vascular.md`
 
-- **Number of Links**: 45
+- **Number of Links**: 51
 
 - **Headings (Chapters) by Level**:
 

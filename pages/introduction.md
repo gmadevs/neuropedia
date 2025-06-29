@@ -642,6 +642,8 @@ next:
 
 [Fornix Eye](https://radiopaedia.org/articles/fornix-eye)  
 [Ocular Globe](https://radiopaedia.org/articles/ocular-globe-1)  
+[Choroid Eye](https://radiopaedia.org/articles/choroid-eye)  
+[Iris Eye](https://radiopaedia.org/articles/iris-eye)  
 [Sphincter Pupillae Muscle](https://radiopaedia.org/articles/sphincter-pupillae-muscle-1)  
 [Trochlea Eye](https://radiopaedia.org/articles/trochlea-eye-1)  
 
@@ -680,6 +682,7 @@ next:
 [Brain Morphometry](https://radiopaedia.org/articles/brain-morphometry)  
 [Optic Nerve Sheath Diameter](https://radiopaedia.org/articles/optic-nerve-sheath-diameter)  
 [Pituitary Height Grading](https://radiopaedia.org/articles/pituitary-height-grading)  
+[Levene Index](https://radiopaedia.org/articles/levene-index)  
 
 ## Imaging techniques
 
@@ -749,7 +752,8 @@ next:
 [Cerebellar Disease Signs Mnemonic](https://radiopaedia.org/articles/cerebellar-disease-signs-mnemonic)  
 [Babinski Reflex](https://radiopaedia.org/articles/babinski-reflex)  
 [Tetanus](https://radiopaedia.org/articles/tetanus)  
-[Epiphora](https://radiopaedia.org/articles/epiphora)  
+[Adie Pupil](https://radiopaedia.org/articles/adie-pupil)  
+[Argyll Robertson Pupil](https://radiopaedia.org/articles/argyll-robertson-pupil)  
 
 ### Neurodegenerative disease
 
