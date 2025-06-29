@@ -19,6 +19,7 @@ outline: deep
 
 ## Posterior fossa
 
+[Cerebellar Tonsillar Ectopia](https://radiopaedia.org/articles/cerebellar-tonsillar-ectopia)  
 [Basilar Invagination](https://radiopaedia.org/articles/basilar-invagination)  
 [Rhombencephalosynapsis](https://radiopaedia.org/articles/rhombencephalosynapsis)  
 [Bat Wing 4th Ventricle](https://radiopaedia.org/articles/bat-wing-4th-ventricle)  
@@ -48,6 +49,10 @@ outline: deep
 
 [Calcified Cephalohaematoma](https://radiopaedia.org/articles/calcified-cephalohaematoma)  
 [Double Skull Sign Cephalohaematoma](https://radiopaedia.org/articles/double-skull-sign-cephalohaematoma)  
+
+## Cranial nerves
+
+[Congenital Facial Nerve Aplasia](https://radiopaedia.org/articles/congenital-facial-nerve-aplasia)  
 
 ## Genetic diseases
 

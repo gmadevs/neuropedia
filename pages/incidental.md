@@ -21,6 +21,7 @@ outline: deep
 [Osteolipoma](https://radiopaedia.org/articles/osteolipoma)  
 [Ring Shaped Lateral Ventricular Nodules](https://radiopaedia.org/articles/ring-shaped-lateral-ventricular-nodules)  
 [Pituitary Stone](https://radiopaedia.org/articles/pituitary-stone)  
+[Low Lying Tonsils](https://radiopaedia.org/articles/low-lying-tonsils)  
 
 ## Vascular anatomical variants
 
