@@ -7,6 +7,7 @@ outline: deep
 ## Trauma introduction
 
 [Investigating Head Injury Summary](https://radiopaedia.org/articles/investigating-head-injury-summary)  
+[Canadian Ct Head Rule](https://radiopaedia.org/articles/canadian-ct-head-rule)  
 [Brain Trauma Protocol Mri](https://radiopaedia.org/articles/brain-trauma-protocol-mri)  
 [CT Head Subdural Window](https://radiopaedia.org/articles/ct-head-subdural-window-1)  
 
@@ -19,6 +20,7 @@ outline: deep
 ## Complications of trauma
 
 [Fat Embolism Syndrome](https://radiopaedia.org/articles/fat-embolism-syndrome)  
+[Intradiploic Encephalocele](https://radiopaedia.org/articles/intradiploic-encephalocele-1)  
 
 ## Pediatric trauma
 

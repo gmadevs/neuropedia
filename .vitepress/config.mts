@@ -41,6 +41,7 @@ export default defineConfig({
           { text: 'CSF', link: '/pages/csf' },
           { text: 'Inflammatory/autoimmune', link: '/pages/inflammatory' },
           { text: 'Infections', link: '/pages/infective' },
+          { text: 'Toxic/metabolic', link: '/pages/toxic' },
           { text: 'Neuro-oncology', link: '/pages/neurooncology' },
           { text: 'Degenerative disease', link: '/pages/degenerative' },
           { text: 'Epilepsy', link: '/pages/epilepsy' },

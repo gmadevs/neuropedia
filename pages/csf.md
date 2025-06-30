@@ -7,6 +7,7 @@ outline: deep
 ## Intracranial hypertension
 
 [Idiopathic Intracranial Hypertension](https://radiopaedia.org/articles/idiopathic-intracranial-hypertension-1)  
+[Combined Conduit Score Of Sinovenous Stenosis](https://radiopaedia.org/articles/combined-conduit-score-of-sinovenous-stenosis)  
 
 ## Intracranial hypotension
 

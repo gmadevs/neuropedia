@@ -25,6 +25,7 @@ outline: deep
 [Isolated Insular Infarct](https://radiopaedia.org/articles/isolated-insular-infarct)  
 [Striatocapsular Infarct](https://radiopaedia.org/articles/striatocapsular-infarct)  
 [Thalamic Infarct](https://radiopaedia.org/articles/thalamic-infarct)  
+[Rule Of 4 Of The Brainstem](https://radiopaedia.org/articles/rule-of-4-of-the-brainstem)  
 [Carotid Pseudo Occlusion](https://radiopaedia.org/articles/carotid-pseudo-occlusion)  
 [Carotid Near Occlusion](https://radiopaedia.org/articles/carotid-near-occlusion)  
 [Free Floating Thrombus Of The Internal Carotid Artery](https://radiopaedia.org/articles/free-floating-thrombus-of-the-internal-carotid-artery)  
@@ -67,3 +68,12 @@ outline: deep
 [Endosaccular Flow Disruption Devices](https://radiopaedia.org/articles/endosaccular-flow-disruption-devices)  
 [Non Ischaemic Cerebral Enhancing Nice Lesions](https://radiopaedia.org/articles/non-ischaemic-cerebral-enhancing-nice-lesions)  
 [Cerebral Varix](https://radiopaedia.org/articles/cerebral-varix)  
+
+## CNS vasculitis
+
+[Giant Cell Arteritis](https://radiopaedia.org/articles/giant-cell-arteritis)  
+
+## Monogenic small vessel disease
+
+[Col4a1 Related Disorders](https://radiopaedia.org/articles/col4a1-related-disorders)  
+[Col4a1 Brain Small Vessel Disease](https://radiopaedia.org/articles/col4a1-brain-small-vessel-disease)  

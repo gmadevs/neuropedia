@@ -89,6 +89,14 @@ features:
       width: 24
       height: 24
 
+  - title: Toxic/metabolic
+    details: Toxic and metabolic diseases, acquired and congenital
+    link: /pages/toxic
+    icon:
+      src: /toxic.png
+      width: 24
+      height: 24
+
   - title: Neuro-oncology
     details: Primitive and secondary tumors of the CSN
     link: /pages/neurooncology

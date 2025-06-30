@@ -6,9 +6,10 @@ outline: deep
 
 ## Common brain anatomical variants
 
-### Skull vault
+### Skull vault and temporal bone
 
 [Bilateral Thinning Of The Parietal Bones](https://radiopaedia.org/articles/bilateral-thinning-of-the-parietal-bones)  
+[Internal Auditory Canal Diverticulum](https://radiopaedia.org/articles/internal-auditory-canal-diverticulum)  
 
 ### Brain
 
@@ -22,6 +23,7 @@ outline: deep
 [Ring Shaped Lateral Ventricular Nodules](https://radiopaedia.org/articles/ring-shaped-lateral-ventricular-nodules)  
 [Pituitary Stone](https://radiopaedia.org/articles/pituitary-stone)  
 [Low Lying Tonsils](https://radiopaedia.org/articles/low-lying-tonsils)  
+[Benign Enhancing Foramen Magnum Lesion](https://radiopaedia.org/articles/benign-enhancing-foramen-magnum-lesion-2)  
 
 ## Vascular anatomical variants
 
