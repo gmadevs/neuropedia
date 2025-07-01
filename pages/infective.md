@@ -26,6 +26,8 @@ outline: deep
 [Enterovirus Rhombencephalitis](https://radiopaedia.org/articles/enterovirus-rhombencephalitis)  
 [Hiv/Aids](https://radiopaedia.org/articles/hivaids)  
 [Hiv/Aids Cns Manifestations](https://radiopaedia.org/articles/hivaids-cns-manifestations-1)  
+[Murray Valley Encephalitis](https://radiopaedia.org/articles/murray-valley-encephalitis)  
+[Eastern Equine Encephalitis](https://radiopaedia.org/articles/eastern-equine-encephalitis)  
 
 ## Parasitic and fungal infections
 

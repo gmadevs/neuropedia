@@ -27,10 +27,12 @@ outline: deep
 [Diffuse Paediatric Type High Grade Gliomas H3 Wildtype And Idh Wildtype](https://radiopaedia.org/articles/diffuse-paediatric-type-high-grade-gliomas-h3-wildtype-and-idh-wildtype)  
 [Isomorphic Diffuse Glioma](https://radiopaedia.org/articles/isomorphic-diffuse-glioma)  
 [Diffuse Low Grade Glioma Mapk Pathway Altered](https://radiopaedia.org/articles/diffuse-low-grade-glioma-mapk-pathway-altered-1)  
+[Subependymal Giant Cell Astrocytoma](https://radiopaedia.org/articles/subependymal-giant-cell-astrocytoma)  
 
 ## Glioneuronal tumors
 
 [Papillary Glioneuronal Tumour](https://radiopaedia.org/articles/papillary-glioneuronal-tumour)  
+[Soap Bubble Appearance Dnet](https://radiopaedia.org/articles/soap-bubble-appearance-dnet)  
 [Diffuse Glioneuronal Tumour With Oligodendroglioma Like Features And Nuclear Clusters](https://radiopaedia.org/articles/diffuse-glioneuronal-tumour-with-oligodendroglioma-like-features-and-nuclear-clusters)  
 [Myxoid Glioneuronal Tumour](https://radiopaedia.org/articles/myxoid-glioneuronal-tumour)  
 [Rosette Forming Glioneuronal Tumour](https://radiopaedia.org/articles/rosette-forming-glioneuronal-tumour-1)  

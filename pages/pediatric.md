@@ -28,9 +28,18 @@ outline: deep
 [Molar Tooth Sign Cns](https://radiopaedia.org/articles/molar-tooth-sign-cns-1)  
 [Poretti Boltshauser Syndrome](https://radiopaedia.org/articles/poretti-boltshauser-syndrome)  
 
+## Craniosynostosis
+
+[Trigonocephaly](https://radiopaedia.org/articles/trigonocephaly)  
+
 ## Migration disorders
 
 [Neurocristopathy Syndromes](https://radiopaedia.org/articles/neurocristopathy-syndromes)  
+
+## Leukodystrophies
+
+[Metachromatic Leukodystrophy](https://radiopaedia.org/articles/metachromatic-leukodystrophy)  
+[X Linked Adrenoleukodystrophy](https://radiopaedia.org/articles/x-linked-adrenoleukodystrophy-1)  
 
 ## Infective disease
 

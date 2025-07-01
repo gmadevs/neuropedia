@@ -49,6 +49,8 @@ outline: deep
 
 [Haemorrhagic Stroke Summary](https://radiopaedia.org/articles/haemorrhagic-stroke-summary)  
 [Edinburgh Criteria For Lobar Intracerebral Haemorrhage Associated With Cerebral Amyloid Angiopathy](https://radiopaedia.org/articles/edinburgh-criteria-for-lobar-intracerebral-haemorrhage-associated-with-cerebral-amyloid-angiopathy)  
+[Terson Syndrome](https://radiopaedia.org/articles/terson-syndrome)  
+[Kernohan Phenomenon](https://radiopaedia.org/articles/kernohan-phenomenon)  
 
 ## Cerebral aneurysm
 

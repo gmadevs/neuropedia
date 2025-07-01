@@ -13,8 +13,12 @@ outline: deep
 
 ## Brain trauma
 
+[Skull Fractures](https://radiopaedia.org/articles/skull-fractures)  
+[Battle Sign Base Of Skull Fracture](https://radiopaedia.org/articles/battle-sign-base-of-skull-fracture)  
 [Extradural Haemorrhage Venous](https://radiopaedia.org/articles/extradural-haemorrhage-venous)  
 [Calcified Chronic Subdural Haematoma](https://radiopaedia.org/articles/calcified-chronic-subdural-haematoma)  
+[Low Velocity Penetrating Brain Injury](https://radiopaedia.org/articles/low-velocity-penetrating-brain-injury)  
+[Diffuse Axonal Injury](https://radiopaedia.org/articles/diffuse-axonal-injury)  
 [Diffuse Axonal Injury Grading](https://radiopaedia.org/articles/diffuse-axonal-injury-grading-1)  
 
 ## Complications of trauma
