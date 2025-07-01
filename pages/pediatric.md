@@ -18,6 +18,7 @@ outline: deep
 [Atypical Callosal Dysgenesis](https://radiopaedia.org/articles/atypical-callosal-dysgenesis)  
 [Arhinencephaly](https://radiopaedia.org/articles/arhinencephaly)  
 [Craniorachischisis](https://radiopaedia.org/articles/craniorachischisis)  
+[Hemifacial Hypertrophy](https://radiopaedia.org/articles/hemifacial-hypertrophy-1)  
 
 ## Posterior fossa
 
