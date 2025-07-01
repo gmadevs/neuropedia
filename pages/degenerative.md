@@ -18,4 +18,5 @@ outline: deep
 
 ## Prion disease
 
+[Brownell Oppenheimer Variant Of Sporadic Creutzfeldt Jakob Disease](https://radiopaedia.org/articles/brownell-oppenheimer-variant-of-sporadic-creutzfeldt-jakob-disease)  
 [Fatal Familial Insomnia](https://radiopaedia.org/articles/fatal-familial-insomnia)  

@@ -11,4 +11,5 @@ outline: deep
 
 ## Toxic disease
 
+[Toxic Leukoencephalopathy Mnemonic](https://radiopaedia.org/articles/toxic-leukoencephalopathy-mnemonic)  
 [Carbon Monoxide Poisoning](https://radiopaedia.org/articles/carbon-monoxide-poisoning-1)  
