@@ -20,7 +20,7 @@ We know how indispensable Radiopaedia is, but also how easy it can be to get los
 
 More than just a website! Our project will culminate in the creation of a **textbook in PDF format**. This volume will be an organic and structured collection of all the linked content, professionally formatted using LaTeX. It will be an invaluable tool for offline study, quick reference, and preparing for exams or presentations. Imagine having the best of Radiopaedia at your fingertips, in a single, organized, and ready-to-use document!
 
-The GitHub repository for the book is here ![NeuroPedia Book](https://github.com/gmadevs/neuropedia_book)
+The GitHub repository for the book is here [NeuroPedia Book](https://github.com/gmadevs/neuropedia_book)
 
 ### A Project in Continuous Evolution
 
@@ -33,5 +33,3 @@ We hope NeuroPedia becomes an indispensable ally in your journey of learning and
 ### Contact Us
 
 We value your feedback and suggestions! If you have any questions, ideas, or would like to contribute to NeuroPedia, please don't hesitate to reach out. You can edit the website by pulling an issue from the Github repository.
-
-Email: giorgiomaria.agazzi@gmail.com

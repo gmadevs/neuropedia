@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as s,ag as a}from"./chunks/framework.Bw-5EFTY.js";const g=JSON.parse('{"title":"To-do list","description":"","frontmatter":{},"headers":[],"relativePath":"todo.md","filePath":"todo.md"}'),i={name:"todo.md"};function r(l,t,n,d,p,c){return s(),o("div",null,t[0]||(t[0]=[a("",2)]))}const m=e(i,[["render",r]]);export{g as __pageData,m as default};
