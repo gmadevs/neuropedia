@@ -10,6 +10,7 @@ outline: deep
 
 [Bilateral Thinning Of The Parietal Bones](https://radiopaedia.org/articles/bilateral-thinning-of-the-parietal-bones)  
 [Internal Auditory Canal Diverticulum](https://radiopaedia.org/articles/internal-auditory-canal-diverticulum)  
+[Sellar Spine](https://radiopaedia.org/articles/sellar-spine)  
 
 ### Brain
 
@@ -20,10 +21,17 @@ outline: deep
 [Bracket Sign Pericallosal Lipoma](https://radiopaedia.org/articles/bracket-sign-pericallosal-lipoma)  
 [Choroid Plexus Lipoma](https://radiopaedia.org/articles/choroid-plexus-lipoma)  
 [Osteolipoma](https://radiopaedia.org/articles/osteolipoma)  
+[Fat In Dural Sinuses](https://radiopaedia.org/articles/fat-in-dural-sinuses)  
 [Ring Shaped Lateral Ventricular Nodules](https://radiopaedia.org/articles/ring-shaped-lateral-ventricular-nodules)  
 [Pituitary Stone](https://radiopaedia.org/articles/pituitary-stone)  
 [Low Lying Tonsils](https://radiopaedia.org/articles/low-lying-tonsils)  
 [Benign Enhancing Foramen Magnum Lesion](https://radiopaedia.org/articles/benign-enhancing-foramen-magnum-lesion-2)  
+[Ependymitis Granularis](https://radiopaedia.org/articles/ependymitis-granularis)  
+
+### Ventricular system
+
+[Choroid Plexus Cyst Antenatal](https://radiopaedia.org/articles/choroid-plexus-cyst-antenatal-1)  
+[Paraphysis Elements](https://radiopaedia.org/articles/paraphysis-elements)  
 
 ## Vascular anatomical variants
 
@@ -38,6 +46,7 @@ outline: deep
 [Persistent Dorsal Ophthalmic Artery](https://radiopaedia.org/articles/persistent-dorsal-ophthalmic-artery)  
 [Persistent Limbic Arch](https://radiopaedia.org/articles/persistent-limbic-arch)  
 [Middle Cerebral Artery Fenestration](https://radiopaedia.org/articles/middle-cerebral-artery-fenestration)  
+[Carotid Cave](https://radiopaedia.org/articles/carotid-cave)  
 
 ### Posterior circulation variants
 

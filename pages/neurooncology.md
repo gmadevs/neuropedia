@@ -22,6 +22,8 @@ outline: deep
 [Pleomorphic Xanthoastrocytoma](https://radiopaedia.org/articles/pleomorphic-xanthoastrocytoma)  
 [Pilocytic Astrocytoma](https://radiopaedia.org/articles/pilocytic-astrocytoma)  
 [Oligodendroglioma](https://radiopaedia.org/articles/oligodendroglioma)  
+[Diffuse Astrocytoma Myb Or Mybl1 Altered](https://radiopaedia.org/articles/diffuse-astrocytoma-myb-or-mybl1-altered-1)  
+[Diffuse Paediatric Type High Grade Gliomas H3 Wildtype And Idh Wildtype](https://radiopaedia.org/articles/diffuse-paediatric-type-high-grade-gliomas-h3-wildtype-and-idh-wildtype)  
 
 ## Glioneuronal tumors
 
@@ -29,10 +31,12 @@ outline: deep
 [Diffuse Glioneuronal Tumour With Oligodendroglioma Like Features And Nuclear Clusters](https://radiopaedia.org/articles/diffuse-glioneuronal-tumour-with-oligodendroglioma-like-features-and-nuclear-clusters)  
 [Myxoid Glioneuronal Tumour](https://radiopaedia.org/articles/myxoid-glioneuronal-tumour)  
 [Rosette Forming Glioneuronal Tumour](https://radiopaedia.org/articles/rosette-forming-glioneuronal-tumour-1)  
+[Polymorphous Low Grade Neuroepithelial Tumour Of The Young](https://radiopaedia.org/articles/polymorphous-low-grade-neuroepithelial-tumour-of-the-young)  
 
 ## Germ cell tumors
 
 [Intracranial Germ Cell Tumours](https://radiopaedia.org/articles/intracranial-germ-cell-tumours)  
+[Intracranial Yolk Sac Tumour](https://radiopaedia.org/articles/intracranial-yolk-sac-tumour)  
 
 ## Lymphomas and hematological tumors
 
@@ -47,7 +51,6 @@ outline: deep
 
 [Meningioma](https://radiopaedia.org/articles/meningioma)  
 [Transitional Meningioma](https://radiopaedia.org/articles/transitional-meningioma)  
-[Meningothelial Hyperplasia](https://radiopaedia.org/articles/meningothelial-hyperplasia)  
 
 ## Intra-ventricular tumors
 
@@ -119,6 +122,7 @@ outline: deep
 [Bloomy Rind Sign Leptomeningeal Metastases](https://radiopaedia.org/articles/bloomy-rind-sign-leptomeningeal-metastases)  
 [Mucinous Cerebral Metastases](https://radiopaedia.org/articles/mucinous-cerebral-metastases)  
 [Occipital Condyle Syndrome](https://radiopaedia.org/articles/occipital-condyle-syndrome)  
+[Collet Sicard Syndrome](https://radiopaedia.org/articles/collet-sicard-syndrome)  
 [Drop Metastases Mnemonic](https://radiopaedia.org/articles/drop-metastases-mnemonic)  
 
 ## Skull vault and basicranium tumors
