@@ -81,3 +81,4 @@ input:checked + .slider:before {
 [Toxic Leukoencephalopathy Mnemonic](https://radiopaedia.org/articles/toxic-leukoencephalopathy-mnemonic)  
 [Wernicke Encephalopathy](https://radiopaedia.org/articles/wernicke-encephalopathy)  
 [Carbon Monoxide Poisoning](https://radiopaedia.org/articles/carbon-monoxide-poisoning-1)  
+[Minamata Disease](https://radiopaedia.org/articles/minamata-disease-1)  

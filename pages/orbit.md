@@ -98,6 +98,10 @@ input:checked + .slider:before {
 [Tolosa Hunt Syndrome](https://radiopaedia.org/articles/tolosa-hunt-syndrome-3)  
 [Anti Crmp 5 Optic Neuropathy](https://radiopaedia.org/articles/anti-crmp-5-optic-neuropathy)  
 
+## Infections
+
+[Orbital Blastomycosis](https://radiopaedia.org/articles/orbital-blastomycosis)  
+
 ## Orbital trauma
 
 [Orbital Blow Out Fracture](https://radiopaedia.org/articles/orbital-blow-out-fracture-2)  

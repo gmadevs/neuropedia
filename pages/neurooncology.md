@@ -95,6 +95,7 @@ input:checked + .slider:before {
 [Oligodendroglioma](https://radiopaedia.org/articles/oligodendroglioma)  
 [Diffuse Astrocytoma Myb Or Mybl1 Altered](https://radiopaedia.org/articles/diffuse-astrocytoma-myb-or-mybl1-altered-1)  
 [Diffuse Paediatric Type High Grade Gliomas H3 Wildtype And Idh Wildtype](https://radiopaedia.org/articles/diffuse-paediatric-type-high-grade-gliomas-h3-wildtype-and-idh-wildtype)  
+[Astroblastoma Mn1 Altered](https://radiopaedia.org/articles/astroblastoma-mn1-altered)  
 [Isomorphic Diffuse Glioma](https://radiopaedia.org/articles/isomorphic-diffuse-glioma)  
 [Diffuse Low Grade Glioma Mapk Pathway Altered](https://radiopaedia.org/articles/diffuse-low-grade-glioma-mapk-pathway-altered-1)  
 [Subependymal Giant Cell Astrocytoma](https://radiopaedia.org/articles/subependymal-giant-cell-astrocytoma)  
@@ -225,6 +226,7 @@ input:checked + .slider:before {
 [Complications Of Radiation Therapy](https://radiopaedia.org/articles/complications-of-radiation-therapy)  
 [Smart Syndrome](https://radiopaedia.org/articles/smart-syndrome)  
 [Radiation Induced Glioma](https://radiopaedia.org/articles/radiation-induced-glioma)  
+[Immune Effector Cell Associated Neurotoxicity Syndrome Ican](https://radiopaedia.org/articles/immune-effector-cell-associated-neurotoxicity-syndrome-icans)  
 
 ## Non neoplastic cysts
 
