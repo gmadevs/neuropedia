@@ -33,3 +33,5 @@ We hope NeuroPedia becomes an indispensable ally in your journey of learning and
 ### Contact Us
 
 We value your feedback and suggestions! If you have any questions, ideas, or would like to contribute to NeuroPedia, please don't hesitate to reach out. You can edit the website by pulling an issue from the Github repository.
+
+📫 [Contact Form](https://docs.google.com/forms/d/e/1FAIpQLSe-9cc3pG3_n84hFtZ9_zY4pHIBouMg98Cq6ygh8SWo9yiL_g/viewform?usp=header)
