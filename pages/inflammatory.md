@@ -70,15 +70,6 @@ input:checked + .slider:before {
   <li><a href="#">Altro link</a></li>
 </ul>
 
-<ul class="star-link-list">
-
-- [⭐ Link stellato 1](https://example.com/1)
-- [Link normale](https://example.com/2)
-- [⭐ Link stellato 2](https://example.com/3)
-- [Altro link](https://example.com/4)
-
-</ul>
-
 # Inflammatory and autoimmune disease
 
 <div class="switch-container">
