@@ -75,6 +75,7 @@ input:checked + .slider:before {
 
 [Non Ketotic Hyperglycaemic Seizure](https://radiopaedia.org/articles/non-ketotic-hyperglycaemic-seizure)  
 [Mild Encephalopathy With Reversible Splenial Lesion Mers](https://radiopaedia.org/articles/mild-encephalopathy-with-reversible-splenial-lesion-mers)  
+[Cirrhosis Cns Manifestations](https://radiopaedia.org/articles/cirrhosis-cns-manifestations)  
 
 ## Toxic disease
 

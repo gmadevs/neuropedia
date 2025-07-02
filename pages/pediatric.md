@@ -132,6 +132,10 @@ input:checked + .slider:before {
 [Calcified Cephalohaematoma](https://radiopaedia.org/articles/calcified-cephalohaematoma)  
 [Double Skull Sign Cephalohaematoma](https://radiopaedia.org/articles/double-skull-sign-cephalohaematoma)  
 
+### Abusive head trauma
+
+[Big Black Brain](https://radiopaedia.org/articles/big-black-brain)  
+
 ## Cranial nerves
 
 [Congenital Facial Nerve Aplasia](https://radiopaedia.org/articles/congenital-facial-nerve-aplasia)  
