@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,ag as i}from"./chunks/framework.Bw-5EFTY.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"partial.md","filePath":"partial.md"}'),o={name:"partial.md"};function l(n,r,s,d,p,h){return t(),e("div",null,r[0]||(r[0]=[i("",15)]))}const f=a(o,[["render",l]]);export{g as __pageData,f as default};
