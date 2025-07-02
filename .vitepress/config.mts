@@ -3,6 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
 
+  appearance: 'dark',
+
   head: [
     // Link alla favicon principale (di solito .ico o la più piccola .png)
     ['link', { rel: 'icon', href: '/favicon.ico' }]
