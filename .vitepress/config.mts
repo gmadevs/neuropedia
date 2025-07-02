@@ -15,7 +15,8 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About the project', link: '/about' },
-      { text: 'About the Author', link: '/author'}
+      { text: 'About the Author', link: '/author'},
+      { text: 'Statistics', link: '/pages/analysis_report'}
     ],
 
     footer: {

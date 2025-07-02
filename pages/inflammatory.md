@@ -82,15 +82,10 @@ input:checked + .slider:before {
 
 ## Multiple sclerosis and variants
 
-<ul class="star-link-list">
-
-- [Cortical Vein Sign ⭐](https://radiopaedia.org/articles/cortical-vein-sign)  
-- [Bickerstaff Encephalitis](https://radiopaedia.org/articles/bickerstaff-encephalitis)  
-- [Marburg Variant Of Multiple Sclerosis](https://radiopaedia.org/articles/marburg-variant-of-multiple-sclerosis)  
-- [Schilder Type Multiple Sclerosis](https://radiopaedia.org/articles/schilder-type-multiple-sclerosis)  
-- [Balo Concentric Sclerosis](https://radiopaedia.org/articles/balo-concentric-sclerosis-3)  
-
-</ul>
+[Cortical Vein Sign ⭐](https://radiopaedia.org/articles/cortical-vein-sign)  
+[Marburg Variant Of Multiple Sclerosis](https://radiopaedia.org/articles/marburg-variant-of-multiple-sclerosis)  
+[Schilder Type Multiple Sclerosis](https://radiopaedia.org/articles/schilder-type-multiple-sclerosis)  
+[Balo Concentric Sclerosis](https://radiopaedia.org/articles/balo-concentric-sclerosis-3)  
 
 ## Neuromyelitis optica and MOGAD
 
@@ -98,7 +93,8 @@ input:checked + .slider:before {
 
 ## Parainfective demyelinating disease
 
-[Progressive Multifocal Leukoencephalopathy](https://radiopaedia.org/articles/progressive-multifocal-leukoencephalopathy)  
+[Progressive Multifocal Leukoencephalopathy ⭐](https://radiopaedia.org/articles/progressive-multifocal-leukoencephalopathy)  
+[Bickerstaff Encephalitis](https://radiopaedia.org/articles/bickerstaff-encephalitis)  
 
 ## Other CNS inflammatory manifestations
 

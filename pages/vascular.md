@@ -93,6 +93,7 @@ input:checked + .slider:before {
 [Striatocapsular Infarct](https://radiopaedia.org/articles/striatocapsular-infarct)  
 [Thalamic Infarct](https://radiopaedia.org/articles/thalamic-infarct)  
 [Rule Of 4 Of The Brainstem](https://radiopaedia.org/articles/rule-of-4-of-the-brainstem)  
+[Crossed Cerebellar Diaschisis](https://radiopaedia.org/articles/crossed-cerebellar-diaschisis)  
 [Carotid Pseudo Occlusion](https://radiopaedia.org/articles/carotid-pseudo-occlusion)  
 [Carotid Near Occlusion](https://radiopaedia.org/articles/carotid-near-occlusion)  
 [Free Floating Thrombus Of The Internal Carotid Artery](https://radiopaedia.org/articles/free-floating-thrombus-of-the-internal-carotid-artery)  
@@ -100,6 +101,7 @@ input:checked + .slider:before {
 [Diffusion Negative Acute Ischaemic Stroke](https://radiopaedia.org/articles/diffusion-negative-acute-ischaemic-stroke)  
 [Early Dwi Reversal In Ischaemic Stroke](https://radiopaedia.org/articles/early-dwi-reversal-in-ischaemic-stroke)  
 [Adc Pseudonormalisation](https://radiopaedia.org/articles/adc-pseudonormalisation)  
+[Watershed Cerebral Infarction](https://radiopaedia.org/articles/watershed-cerebral-infarction)  
 [String Of Pearls Sign Watershed Infarction](https://radiopaedia.org/articles/string-of-pearls-sign-watershed-infarction)  
 [Suboccipital Rind Sign](https://radiopaedia.org/articles/suboccipital-rind-sign)  
 [Stasis Filling](https://radiopaedia.org/articles/stasis-filling)  
@@ -138,8 +140,10 @@ input:checked + .slider:before {
 [Non Ischaemic Cerebral Enhancing Nice Lesions](https://radiopaedia.org/articles/non-ischaemic-cerebral-enhancing-nice-lesions)  
 [Cerebral Varix](https://radiopaedia.org/articles/cerebral-varix)  
 
-## Vascular malformations
+## Vascular malformations and lesions
 
+[Zabramski Classification Of Cerebral Cavernous Malformations](https://radiopaedia.org/articles/zabramski-classification-of-cerebral-cavernous-malformations)  
+[Yasargil Classification Of Vein Of Galen Aneurysmal Malformations](https://radiopaedia.org/articles/yasargil-classification-of-vein-of-galen-aneurysmal-malformations)  
 [Ivy Sign Brain](https://radiopaedia.org/articles/ivy-sign-brain)  
 [Sinus Pericranii](https://radiopaedia.org/articles/sinus-pericranii)  
 

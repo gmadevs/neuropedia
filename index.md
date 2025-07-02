@@ -20,9 +20,6 @@ hero:
       text: Useful links
       link: /links
     - theme: alt
-      text: Statistics
-      link: /pages/analysis_report
-    - theme: alt
       text: To-do list
       link: /todo
 

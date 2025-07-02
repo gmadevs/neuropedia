@@ -91,10 +91,15 @@ input:checked + .slider:before {
 [Encephalitis Due To Herpesvirus Family](https://radiopaedia.org/articles/encephalitis-due-to-herpesvirus-family)  
 [Varicella Zoster Virus Encephalitis](https://radiopaedia.org/articles/varicella-zoster-virus-encephalitis)  
 [Enterovirus Rhombencephalitis](https://radiopaedia.org/articles/enterovirus-rhombencephalitis)  
-[Hiv/Aids](https://radiopaedia.org/articles/hivaids)  
-[Hiv/Aids Cns Manifestations](https://radiopaedia.org/articles/hivaids-cns-manifestations-1)  
 [Murray Valley Encephalitis](https://radiopaedia.org/articles/murray-valley-encephalitis)  
 [Eastern Equine Encephalitis](https://radiopaedia.org/articles/eastern-equine-encephalitis)  
+
+### HIV
+
+[Hiv/Aids](https://radiopaedia.org/articles/hivaids)  
+[Hiv/Aids Cns Manifestations](https://radiopaedia.org/articles/hivaids-cns-manifestations-1)  
+[White Matter Changes In Hiv](https://radiopaedia.org/articles/white-matter-changes-in-hiv)  
+
 
 ## Parasitic and fungal infections
 

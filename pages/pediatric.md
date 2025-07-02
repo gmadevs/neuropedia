@@ -152,9 +152,10 @@ input:checked + .slider:before {
 [Pierson Syndrome](https://radiopaedia.org/articles/pierson-syndrome)  
 [Alport Syndrome](https://radiopaedia.org/articles/alport-syndrome)  
 
-### Neuromuscular diseases
+### Neuromuscular diseases and dystrophies
 
 [Spinal Muscular Atrophy](https://radiopaedia.org/articles/spinal-muscular-atrophy)  
+[Walker Warburg Syndrome](https://radiopaedia.org/articles/walker-warburg-syndrome-1)  
 
 ### Peroxisomal disorders
 
@@ -181,6 +182,10 @@ input:checked + .slider:before {
 
 [Phakomatoses](https://radiopaedia.org/articles/phakomatoses-1)  
 [Sturge Weber Syndrome](https://radiopaedia.org/articles/sturge-weber-syndrome-1)  
+
+## Spinal dysraphysm
+
+[Caudal Regression Syndrome](https://radiopaedia.org/articles/caudal-regression-syndrome)  
 
 ## Intraparenchimal hemorrhage
 

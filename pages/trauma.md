@@ -75,6 +75,7 @@ input:checked + .slider:before {
 
 [Investigating Head Injury Summary](https://radiopaedia.org/articles/investigating-head-injury-summary)  
 [Canadian Ct Head Rule](https://radiopaedia.org/articles/canadian-ct-head-rule)  
+[Boston Criteria For Blunt Cerebrovascular Trauma](https://radiopaedia.org/articles/boston-criteria-for-blunt-cerebrovascular-trauma)  
 [Brain Trauma Protocol Mri](https://radiopaedia.org/articles/brain-trauma-protocol-mri)  
 [CT Head Subdural Window](https://radiopaedia.org/articles/ct-head-subdural-window-1)  
 
