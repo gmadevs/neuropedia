@@ -63,16 +63,24 @@ input:checked + .slider:before {
 
 # CSF pathology
 
+<div class="switch-container">
+  <label class="switch">
+    <input type="checkbox" id="toggle-stars">
+    <span class="slider"></span>
+  </label>
+  <span>Show only recommended topics ⭐</span>
+</div>
+
 ## Intracranial hypertension
 
-[Idiopathic Intracranial Hypertension](https://radiopaedia.org/articles/idiopathic-intracranial-hypertension-1)  
+[Idiopathic Intracranial Hypertension ⭐](https://radiopaedia.org/articles/idiopathic-intracranial-hypertension-1)  
 [Combined Conduit Score Of Sinovenous Stenosis](https://radiopaedia.org/articles/combined-conduit-score-of-sinovenous-stenosis)  
 
 ## Intracranial hypotension
 
 [Intracranial Hypotension Mnemonic](https://radiopaedia.org/articles/intracranial-hypotension-mnemonic)  
-[Cerebrospinal Fluid Leak](https://radiopaedia.org/articles/cerebrospinal-fluid-leak)  
-[Csf Lymphatic Fistula](https://radiopaedia.org/articles/csf-lymphatic-fistula)  
+[Cerebrospinal Fluid Leak ⭐](https://radiopaedia.org/articles/cerebrospinal-fluid-leak)  
+[Csf Lymphatic Fistula ⭐](https://radiopaedia.org/articles/csf-lymphatic-fistula)  
 [Hydrostatic Indifference Point](https://radiopaedia.org/articles/hydrostatic-indifference-point)  
 [Bern Score](https://radiopaedia.org/articles/bern-score)  
 [C1 C2 False Localising Sign Spine](https://radiopaedia.org/articles/c1-c2-false-localising-sign-spine)  
@@ -81,4 +89,4 @@ input:checked + .slider:before {
 
 ## Hydrocephalus
 
-[Hydrocephalus Vs Atrophy](https://radiopaedia.org/articles/hydrocephalus-vs-atrophy-4)  
+[Hydrocephalus Vs Atrophy ⭐](https://radiopaedia.org/articles/hydrocephalus-vs-atrophy-4)  

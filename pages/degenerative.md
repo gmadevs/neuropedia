@@ -81,7 +81,7 @@ input:checked + .slider:before {
 
 ### Hereditary movement disorders
 
-[Friedreich Ataxia](https://radiopaedia.org/articles/friedreich-ataxia)  
+[Friedreich Ataxia ⭐](https://radiopaedia.org/articles/friedreich-ataxia)  
 
 ## Prion disease
 
