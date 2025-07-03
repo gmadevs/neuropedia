@@ -149,5 +149,13 @@ features:
       src: /pediatric.png
       width: 24
       height: 24  
+
+  - title: Head and Neck
+    details: Head and Neck infectuous, oncological and malformative disease
+    link: /pages/head_neck
+    icon:
+      src: /head_neck.png
+      width: 24
+      height: 24  
 ---
 

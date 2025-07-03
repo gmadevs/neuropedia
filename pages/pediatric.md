@@ -108,11 +108,15 @@ input:checked + .slider:before {
 
 [Metachromatic Leukodystrophy](https://radiopaedia.org/articles/metachromatic-leukodystrophy)  
 [X Linked Adrenoleukodystrophy](https://radiopaedia.org/articles/x-linked-adrenoleukodystrophy-1)  
+[Cockayne Syndrome](https://radiopaedia.org/articles/cockayne-syndrome)  
+[Tadpole Sign Adult Onset Alexander Disease](https://radiopaedia.org/articles/tadpole-sign-adult-onset-alexander-disease)  
+[Chipmunk Sign Brainstem](https://radiopaedia.org/articles/chipmunk-sign-brainstem)  
 
 ## Infective disease
 
 [Congenital Cerebral Toxoplasmosis](https://radiopaedia.org/articles/congenital-cerebral-toxoplasmosis)  
 [Neonatal Herpes Simplex Encephalitis](https://radiopaedia.org/articles/neonatal-herpes-simplex-encephalitis)  
+[Claustrum Sign](https://radiopaedia.org/articles/claustrum-sign)  
 
 ## Vascular disease
 
@@ -142,6 +146,7 @@ input:checked + .slider:before {
 
 ## Genetic diseases
 
+[Sickle Cell Disease](https://radiopaedia.org/articles/sickle-cell-disease)  
 [Rasopathy](https://radiopaedia.org/articles/rasopathy-1)  
 [Coach Syndrome](https://radiopaedia.org/articles/coach-syndrome)  
 [Meckel Gruber Syndrome](https://radiopaedia.org/articles/meckel-gruber-syndrome)  
@@ -155,6 +160,7 @@ input:checked + .slider:before {
 [Chudley Mccullough Syndrome](https://radiopaedia.org/articles/chudley-mccullough-syndrome)  
 [Pierson Syndrome](https://radiopaedia.org/articles/pierson-syndrome)  
 [Alport Syndrome](https://radiopaedia.org/articles/alport-syndrome)  
+[Gm2 Gangliosidoses](https://radiopaedia.org/articles/gm2-gangliosidoses)  
 
 ### Neuromuscular diseases and dystrophies
 
@@ -186,6 +192,7 @@ input:checked + .slider:before {
 
 [Phakomatoses](https://radiopaedia.org/articles/phakomatoses-1)  
 [Sturge Weber Syndrome](https://radiopaedia.org/articles/sturge-weber-syndrome-1)  
+[Ataxia Telangiectasia](https://radiopaedia.org/articles/ataxia-telangiectasia-1)  
 
 ## Spinal dysraphysm
 

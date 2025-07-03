@@ -60,7 +60,7 @@ export default defineConfig({
         text: 'Head and neck',
         items: [
 
-          { text: 'Introduction', link: '/pages/introduction' },
+          { text: 'Head and Neck', link: '/pages/head_neck' },
 
         ]
       }

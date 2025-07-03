@@ -134,4 +134,5 @@ input:checked + .slider:before {
 ## Spine common incidentals
 
 [Spinal Meningeal Cyst](https://radiopaedia.org/articles/spinal-meningeal-cyst)  
+[Classification Of Spinal Meningeal Cysts](https://radiopaedia.org/articles/classification-of-spinal-meningeal-cysts-1)
 [Tarlov Cyst](https://radiopaedia.org/articles/tarlov-cyst)  

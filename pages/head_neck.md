@@ -61,7 +61,7 @@ input:checked + .slider:before {
 
 </style>
 
-# Toxic and metabolic diseases
+# Head and neck
 
 <div class="switch-container">
   <label class="switch">
@@ -71,17 +71,6 @@ input:checked + .slider:before {
   <span>Show only recommended topics ⭐</span>
 </div>
 
-## Metabolic disease
+## Toxic pathology
 
-[Non Ketotic Hyperglycaemic Seizure](https://radiopaedia.org/articles/non-ketotic-hyperglycaemic-seizure)  
-[Mild Encephalopathy With Reversible Splenial Lesion Mers](https://radiopaedia.org/articles/mild-encephalopathy-with-reversible-splenial-lesion-mers)  
-[Cirrhosis Cns Manifestations](https://radiopaedia.org/articles/cirrhosis-cns-manifestations)  
-
-## Toxic disease
-
-[Toxic Leukoencephalopathy Mnemonic](https://radiopaedia.org/articles/toxic-leukoencephalopathy-mnemonic)  
-[Alcoholic Cerebellar Degeneration](https://radiopaedia.org/articles/alcoholic-cerebellar-degeneration)  
-[Wernicke Encephalopathy](https://radiopaedia.org/articles/wernicke-encephalopathy)  
-[Carbon Monoxide Poisoning](https://radiopaedia.org/articles/carbon-monoxide-poisoning-1)  
-[Levamisole Induced Leukoencephalopathy](https://radiopaedia.org/articles/levamisole-induced-leukoencephalopathy)  
-[Minamata Disease](https://radiopaedia.org/articles/minamata-disease-1)  
+[Cocaine Induced Midline Destructive Lesion](https://radiopaedia.org/articles/cocaine-induced-midline-destructive-lesion)  

@@ -74,6 +74,7 @@ input:checked + .slider:before {
 ## General neuro-oncology
 
 [Brain Mass Lesion Summary](https://radiopaedia.org/articles/brain-mass-lesion-summary)  
+[Furstenberg Sign](https://radiopaedia.org/articles/furstenberg-sign)  
 [Who Classification Of Cns Tumours](https://radiopaedia.org/articles/who-classification-of-cns-tumours-1)  
 [Who Grading Of Cns Tumours](https://radiopaedia.org/articles/who-grading-of-cns-tumours)  
 [Who Grading System For Diffuse Astrocytomas](https://radiopaedia.org/articles/who-grading-system-for-diffuse-astrocytomas)  
@@ -99,9 +100,12 @@ input:checked + .slider:before {
 [Isomorphic Diffuse Glioma](https://radiopaedia.org/articles/isomorphic-diffuse-glioma)  
 [Diffuse Low Grade Glioma Mapk Pathway Altered](https://radiopaedia.org/articles/diffuse-low-grade-glioma-mapk-pathway-altered-1)  
 [Subependymal Giant Cell Astrocytoma](https://radiopaedia.org/articles/subependymal-giant-cell-astrocytoma)  
+[Brainstem Glioma](https://radiopaedia.org/articles/brainstem-glioma)  
+[Focal Brainstem Glioma](https://radiopaedia.org/articles/focal-brainstem-glioma)  
 
 ## Glioneuronal tumors
 
+[Gangliocytoma](https://radiopaedia.org/articles/gangliocytoma)  
 [Papillary Glioneuronal Tumour](https://radiopaedia.org/articles/papillary-glioneuronal-tumour)  
 [Soap Bubble Appearance Dnet](https://radiopaedia.org/articles/soap-bubble-appearance-dnet)  
 [Diffuse Glioneuronal Tumour With Oligodendroglioma Like Features And Nuclear Clusters](https://radiopaedia.org/articles/diffuse-glioneuronal-tumour-with-oligodendroglioma-like-features-and-nuclear-clusters)  
@@ -109,10 +113,17 @@ input:checked + .slider:before {
 [Rosette Forming Glioneuronal Tumour](https://radiopaedia.org/articles/rosette-forming-glioneuronal-tumour-1)  
 [Polymorphous Low Grade Neuroepithelial Tumour Of The Young](https://radiopaedia.org/articles/polymorphous-low-grade-neuroepithelial-tumour-of-the-young)  
 
-## Germ cell tumors
+## Germ cell and embryonal tumors
+
+### Germ cell tumors
 
 [Intracranial Germ Cell Tumours](https://radiopaedia.org/articles/intracranial-germ-cell-tumours)  
 [Intracranial Yolk Sac Tumour](https://radiopaedia.org/articles/intracranial-yolk-sac-tumour)  
+
+### Embryonal tumors
+
+[Cns Tumour With Bcor Internal Tandem Duplication](https://radiopaedia.org/articles/cns-tumour-with-bcor-internal-tandem-duplication)  
+[Cns Neuroblastoma Foxr2 Activated](https://radiopaedia.org/articles/cns-neuroblastoma-foxr2-activated-1)  
 
 ## Lymphomas and hematological tumors
 
@@ -166,9 +177,11 @@ input:checked + .slider:before {
 [Pineal Parenchymal Tumour Of Intermediate Differentiation](https://radiopaedia.org/articles/pineal-parenchymal-tumour-of-intermediate-differentiation)  
 [Pineal Gland Metastasis](https://radiopaedia.org/articles/pineal-gland-metastasis-1)  
 [Desmoplastic Myxoid Tumour Of The Pineal Region Smarcb1 Mutant](https://radiopaedia.org/articles/desmoplastic-myxoid-tumour-of-the-pineal-region-smarcb1-mutant-1)  
+[Pineal Yolk Sac Tumour](https://radiopaedia.org/articles/pineal-yolk-sac-tumour)  
 
 ## Pituitary and hypothalamic tumors
 
+[Hypothalamic Lesions](https://radiopaedia.org/articles/hypothalamic-lesions)  
 [Pituitary Region Masses](https://radiopaedia.org/articles/pituitary-region-masses)  
 [Pituitary Tumours](https://radiopaedia.org/articles/pituitary-tumours)  
 [Pituitary Adenoma/Pitnet](https://radiopaedia.org/articles/pituitary-adenomapitnet)  
@@ -208,6 +221,7 @@ input:checked + .slider:before {
 
 ## Skull vault and basicranium tumors
 
+[Skull Tumors](https://radiopaedia.org/articles/skull-tumors-1)  
 [Intraosseous Meningioma](https://radiopaedia.org/articles/intraosseous-meningioma)  
 [Skull Base Meningioma](https://radiopaedia.org/articles/skull-base-meningioma)  
 [Chondrosarcoma Of The Skull Base](https://radiopaedia.org/articles/chondrosarcoma-of-the-skull-base)  
@@ -226,6 +240,7 @@ input:checked + .slider:before {
 [Complications Of Radiation Therapy](https://radiopaedia.org/articles/complications-of-radiation-therapy)  
 [Smart Syndrome](https://radiopaedia.org/articles/smart-syndrome)  
 [Radiation Induced Glioma](https://radiopaedia.org/articles/radiation-induced-glioma)  
+[Cytokine Release Syndrome](https://radiopaedia.org/articles/cytokine-release-syndrome-1)  
 [Immune Effector Cell Associated Neurotoxicity Syndrome Ican](https://radiopaedia.org/articles/immune-effector-cell-associated-neurotoxicity-syndrome-icans)  
 
 ## Non neoplastic cysts
