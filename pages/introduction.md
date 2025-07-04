@@ -231,6 +231,10 @@ input:checked + .slider:before {
 [Mastoid Fontanelle](https://radiopaedia.org/articles/mastoid-fontanelle-1)  
 [Posterior Fontanelle](https://radiopaedia.org/articles/posterior-fontanelle)
 
+#### Anterior cranial fossa
+
+[Planum Sphenoidale](https://radiopaedia.org/articles/planum-sphenoidale)  
+
 #### Temporal bone
 
 [Mastoid Antrum](https://radiopaedia.org/articles/mastoid-antrum)  
@@ -874,6 +878,8 @@ input:checked + .slider:before {
 [Ageusia](https://radiopaedia.org/articles/ageusia)  
 [Cacosmia](https://radiopaedia.org/articles/cacosmia)  
 [Deafness](https://radiopaedia.org/articles/deafness)  
+[Ataxia Clinical Sign](https://radiopaedia.org/articles/ataxia-clinical-sign)  
+[Acalculia](https://radiopaedia.org/articles/acalculia)  
 [Broca Aphasia](https://radiopaedia.org/articles/broca-aphasia)  
 [Cholinergic Crisis Mnemonic](https://radiopaedia.org/articles/cholinergic-crisis-mnemonic)  
 [Internuclear Ophthalmoplegia](https://radiopaedia.org/articles/internuclear-ophthalmoplegia)  

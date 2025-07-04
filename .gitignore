@@ -2,3 +2,5 @@ node_modules
 .DS_Store
 partial.md
 pages/statistiche.py
+pages/headings_output.md
+pages/estrai_heading.py

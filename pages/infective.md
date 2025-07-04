@@ -80,6 +80,7 @@ input:checked + .slider:before {
 [Tuberculosis Intracranial Manifestations](https://radiopaedia.org/articles/tuberculosis-intracranial-manifestations)  
 [Tuberculous Pachymeningitis](https://radiopaedia.org/articles/tuberculous-pachymeningitis)  
 [Tuberculous Meningitis](https://radiopaedia.org/articles/tuberculous-meningitis)  
+[Rich Focus](https://radiopaedia.org/articles/rich-focus)  
 [Leptospirosis](https://radiopaedia.org/articles/leptospirosis)  
 [Syphilis](https://radiopaedia.org/articles/syphilis)  
 [Neurosyphilis](https://radiopaedia.org/articles/neurosyphilis)  

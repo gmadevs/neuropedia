@@ -81,9 +81,11 @@ input:checked + .slider:before {
 
 [Toxic Leukoencephalopathy Mnemonic](https://radiopaedia.org/articles/toxic-leukoencephalopathy-mnemonic)  
 [Alcoholic Cerebellar Degeneration](https://radiopaedia.org/articles/alcoholic-cerebellar-degeneration)  
+[Wernicke Korsakoff Syndrome Mnemonic](https://radiopaedia.org/articles/wernicke-korsakoff-syndrome-mnemonic)  
 [Wernicke Encephalopathy](https://radiopaedia.org/articles/wernicke-encephalopathy)  
 [Carbon Monoxide Poisoning](https://radiopaedia.org/articles/carbon-monoxide-poisoning-1)  
 [Levamisole Induced Leukoencephalopathy](https://radiopaedia.org/articles/levamisole-induced-leukoencephalopathy)  
+[Cerebellar Hippocampal And Basal Nuclei Transient Oedema With Restricted Diffusion Chanter Syndrome](https://radiopaedia.org/articles/cerebellar-hippocampal-and-basal-nuclei-transient-oedema-with-restricted-diffusion-chanter-syndrome-1)  
 [Minamata Disease](https://radiopaedia.org/articles/minamata-disease-1)  
 
 ## Genetic disease
