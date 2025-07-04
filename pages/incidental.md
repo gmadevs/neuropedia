@@ -117,6 +117,9 @@ input:checked + .slider:before {
 
 ### Posterior circulation variants
 
+[Vertebral Artery Ectasia](https://radiopaedia.org/articles/vertebral-artery-ectasia)  
+[Vertebral Artery Hypoplasia](https://radiopaedia.org/articles/vertebral-artery-hypoplasia)  
+[Vertebral Artery Loop](https://radiopaedia.org/articles/vertebral-artery-loop)  
 [Anterior Inferior Cerebellar Artery Loop](https://radiopaedia.org/articles/anterior-inferior-cerebellar-artery-loop)  
 [Dolichoectasia](https://radiopaedia.org/articles/dolichoectasia-1)  
 [Smokers Criteria](https://radiopaedia.org/articles/smokers-criteria)  

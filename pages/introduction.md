@@ -235,6 +235,11 @@ input:checked + .slider:before {
 
 [Planum Sphenoidale](https://radiopaedia.org/articles/planum-sphenoidale)  
 
+#### Facial bone
+
+[Zygomatic Bone](https://radiopaedia.org/articles/zygomatic-bone-2)  
+[Zygomatic Arch](https://radiopaedia.org/articles/zygomatic-arch)  
+
 #### Temporal bone
 
 [Mastoid Antrum](https://radiopaedia.org/articles/mastoid-antrum)  
@@ -876,8 +881,11 @@ input:checked + .slider:before {
 ## General neurology
 
 [Ageusia](https://radiopaedia.org/articles/ageusia)  
+[Agraphia](https://radiopaedia.org/articles/agraphia)  
+[Alexia](https://radiopaedia.org/articles/alexia)  
 [Cacosmia](https://radiopaedia.org/articles/cacosmia)  
 [Deafness](https://radiopaedia.org/articles/deafness)  
+[Xerostomia](https://radiopaedia.org/articles/xerostomia)  
 [Ataxia Clinical Sign](https://radiopaedia.org/articles/ataxia-clinical-sign)  
 [Acalculia](https://radiopaedia.org/articles/acalculia)  
 [Broca Aphasia](https://radiopaedia.org/articles/broca-aphasia)  
@@ -946,9 +954,12 @@ input:checked + .slider:before {
 
 ## General imaging patterns
 
+### Brain
+
 [Cerebral Oedema Summary](https://radiopaedia.org/articles/cerebral-oedema-summary)  
 [Multiple Intracranial Calcifications](https://radiopaedia.org/articles/multiple-intracranial-calcifications)  
 [Optic Nerve Calcification](https://radiopaedia.org/articles/optic-nerve-calcification)  
+[Vasogenic Cerebral Edema](https://radiopaedia.org/articles/vasogenic-cerebral-edema-1)  
 [Fat Containing Brain Lesions](https://radiopaedia.org/articles/fat-containing-brain-lesions)  
 [Superficial Siderosis Of The Central Nervous System](https://radiopaedia.org/articles/superficial-siderosis-of-the-central-nervous-system)  
 [Cerebellar Hypoplasia](https://radiopaedia.org/articles/cerebellar-hypoplasia)  
@@ -957,3 +968,8 @@ input:checked + .slider:before {
 [Leptomeningeal Enhancement](https://radiopaedia.org/articles/leptomeningeal-enhancement)  
 [Acquired Tonsillar Ectopia](https://radiopaedia.org/articles/acquired-tonsillar-ectopia)  
 [Hair On End Sign Mnemonic](https://radiopaedia.org/articles/hair-on-end-sign-mnemonic)  
+[Widening Of The Diploic Space](https://radiopaedia.org/articles/widening-of-the-diploic-space)  
+
+### Spine
+
+[Widening Of Interpedicular Distance](https://radiopaedia.org/articles/widening-of-interpedicular-distance)  

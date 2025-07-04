@@ -168,6 +168,7 @@ input:checked + .slider:before {
 [Alport Syndrome](https://radiopaedia.org/articles/alport-syndrome)  
 [Gm2 Gangliosidoses](https://radiopaedia.org/articles/gm2-gangliosidoses)  
 [Hartnup Disease](https://radiopaedia.org/articles/hartnup-disease)  
+[Riley Day Syndrome](https://radiopaedia.org/articles/riley-day-syndrome)  
 
 ### Neuromuscular diseases and dystrophies
 

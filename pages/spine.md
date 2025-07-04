@@ -94,6 +94,10 @@ input:checked + .slider:before {
 
 [Spinal Cord Abscess](https://radiopaedia.org/articles/spinal-cord-abscess)  
 
-## Degeneerative disease
+## Degenerative disease
 
 [Kang Grading System Of Cervical Canal Stenosis](https://radiopaedia.org/articles/kang-grading-system-of-cervical-canal-stenosis)  
+
+## Vascular disease
+
+[Vanishing Vertebrae](https://radiopaedia.org/articles/vanishing-vertebrae)  

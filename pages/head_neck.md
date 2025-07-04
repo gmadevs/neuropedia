@@ -71,6 +71,16 @@ input:checked + .slider:before {
   <span>Show only recommended topics ⭐</span>
 </div>
 
+## Anatomy
+
+[Zygomaticus Muscles](https://radiopaedia.org/articles/zygomaticus-muscles)  
+[Zygomaticus Major Muscle](https://radiopaedia.org/articles/zygomaticus-major-muscle)  
+[Zygomaticus Minor Muscle](https://radiopaedia.org/articles/zygomaticus-minor-muscle)  
+
+## Tumors
+
+[Who Classification Of Head And Neck Tumors](https://radiopaedia.org/articles/who-classification-of-head-and-neck-tumors)  
+
 ## Toxic pathology
 
 [Cocaine Induced Midline Destructive Lesion](https://radiopaedia.org/articles/cocaine-induced-midline-destructive-lesion)  
