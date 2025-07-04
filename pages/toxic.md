@@ -85,3 +85,7 @@ input:checked + .slider:before {
 [Carbon Monoxide Poisoning](https://radiopaedia.org/articles/carbon-monoxide-poisoning-1)  
 [Levamisole Induced Leukoencephalopathy](https://radiopaedia.org/articles/levamisole-induced-leukoencephalopathy)  
 [Minamata Disease](https://radiopaedia.org/articles/minamata-disease-1)  
+
+## Genetic disease
+
+[Adult Polyglucosan Body Disease](https://radiopaedia.org/articles/adult-polyglucosan-body-disease)  

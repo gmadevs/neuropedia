@@ -121,6 +121,10 @@ input:checked + .slider:before {
 [Terson Syndrome](https://radiopaedia.org/articles/terson-syndrome)  
 [Kernohan Phenomenon](https://radiopaedia.org/articles/kernohan-phenomenon)  
 
+### Complications of intracerebral hemorrhage
+
+[Lindegaard Ratio](https://radiopaedia.org/articles/lindegaard-ratio)  
+
 ## Cerebral aneurysm
 
 [Intracranial Aneurysm Overview](https://radiopaedia.org/articles/intracranial-aneurysm-overview)  

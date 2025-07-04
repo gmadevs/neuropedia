@@ -123,14 +123,19 @@ input:checked + .slider:before {
 ### Stroke and arteriopathies
 
 [Focal Cerebral Arteriopathy Of Childhood](https://radiopaedia.org/articles/focal-cerebral-arteriopathy-of-childhood)  
+[Absent Posterior Limb Sign](https://radiopaedia.org/articles/absent-posterior-limb-sign)  
 
 ### Haemorrhagic disease
 
 [Subpial Haemorrhage](https://radiopaedia.org/articles/subpial-haemorrhage)  
 [Germinal Matrix Haemorrhage Grading Mnemonic](https://radiopaedia.org/articles/germinal-matrix-haemorrhage-grading-mnemonic)  
+[Germinal Matrix Haemorrhage](https://radiopaedia.org/articles/germinal-matrix-haemorrhage)  
+[Haemorrhagic Shock And Encephalopathy Syndrome](https://radiopaedia.org/articles/haemorrhagic-shock-and-encephalopathy-syndrome)  
+[Subependymal Cyst](https://radiopaedia.org/articles/subependymal-cyst)  
 
 ## Trauma
 
+[Suspected Physical Abuse Head Injury](https://radiopaedia.org/articles/suspected-physical-abuse-head-injury)  
 [Chalice Rule](https://radiopaedia.org/articles/chalice-rule)  
 [Pecarn Traumatic Brain Injury Algorithm](https://radiopaedia.org/articles/pecarn-traumatic-brain-injury-algorithm)  
 [Calcified Cephalohaematoma](https://radiopaedia.org/articles/calcified-cephalohaematoma)  
@@ -161,6 +166,7 @@ input:checked + .slider:before {
 [Pierson Syndrome](https://radiopaedia.org/articles/pierson-syndrome)  
 [Alport Syndrome](https://radiopaedia.org/articles/alport-syndrome)  
 [Gm2 Gangliosidoses](https://radiopaedia.org/articles/gm2-gangliosidoses)  
+[Hartnup Disease](https://radiopaedia.org/articles/hartnup-disease)  
 
 ### Neuromuscular diseases and dystrophies
 
@@ -175,6 +181,7 @@ input:checked + .slider:before {
 ### Lysosomial disorders
 
 [Krabbe Disease](https://radiopaedia.org/articles/krabbe-disease)  
+[Fabry Disease Neurological Manifestations](https://radiopaedia.org/articles/fabry-disease-neurological-manifestations)  
 
 ### Mitochondrial disorders
 
@@ -197,10 +204,6 @@ input:checked + .slider:before {
 ## Spinal dysraphysm
 
 [Caudal Regression Syndrome](https://radiopaedia.org/articles/caudal-regression-syndrome)  
-
-## Intraparenchimal hemorrhage
-
-[Germinal Matrix Haemorrhage](https://radiopaedia.org/articles/germinal-matrix-haemorrhage)  
 
 ## Fetal radiology
 

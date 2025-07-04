@@ -91,6 +91,7 @@ input:checked + .slider:before {
 ## Neuromyelitis optica and MOGAD
 
 [H Sign Spinal Cord](https://radiopaedia.org/articles/h-sign-spinal-cord-1)  
+[Area Postrema Syndrome](https://radiopaedia.org/articles/area-postrema-syndrome)  
 
 ## Parainfective demyelinating disease
 
