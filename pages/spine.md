@@ -97,6 +97,11 @@ input:checked + .slider:before {
 ## Degenerative disease
 
 [Kang Grading System Of Cervical Canal Stenosis](https://radiopaedia.org/articles/kang-grading-system-of-cervical-canal-stenosis)  
+[Wiltse Classification Of Spondylolisthesis](https://radiopaedia.org/articles/wiltse-classification-of-spondylolisthesis)  
+
+## Metabolic disease
+
+[Y Sign Epidural Lipomatosis](https://radiopaedia.org/articles/y-sign-epidural-lipomatosis)  
 
 ## Vascular disease
 
