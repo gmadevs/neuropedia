@@ -89,6 +89,7 @@ input:checked + .slider:before {
 ## Viral infections
 
 [Viral Meningitis](https://radiopaedia.org/articles/viral-meningitis)  
+[Viral Encephalitides](https://radiopaedia.org/articles/viral-encephalitides)  
 [Encephalitis Due To Herpesvirus Family](https://radiopaedia.org/articles/encephalitis-due-to-herpesvirus-family)  
 [Varicella Zoster Virus Encephalitis](https://radiopaedia.org/articles/varicella-zoster-virus-encephalitis)  
 [Enterovirus Rhombencephalitis](https://radiopaedia.org/articles/enterovirus-rhombencephalitis)  

@@ -804,6 +804,7 @@ input:checked + .slider:before {
 [Tegmentovermian Angle](https://radiopaedia.org/articles/tegmentovermian-angle)  
 [Mcrae Line](https://radiopaedia.org/articles/mcrae-line)  
 [Chamberlain Line](https://radiopaedia.org/articles/chamberlain-line)  
+[Wackenheim Line](https://radiopaedia.org/articles/wackenheim-line)  
 [Mamillopontine Distance](https://radiopaedia.org/articles/mamillopontine-distance)  
 [Pontomesencephalic Angle](https://radiopaedia.org/articles/pontomesencephalic-angle)  
 [Interpeduncular Angle](https://radiopaedia.org/articles/interpeduncular-angle)  
@@ -819,6 +820,7 @@ input:checked + .slider:before {
 [Optic Nerve Sheath Diameter](https://radiopaedia.org/articles/optic-nerve-sheath-diameter)  
 [Pituitary Height Grading](https://radiopaedia.org/articles/pituitary-height-grading)  
 [Elsters Rule Pituitary Gland](https://radiopaedia.org/articles/elsters-rule-pituitary-gland)  
+[Vestibular Line Of Lapayowker](https://radiopaedia.org/articles/vestibular-line-of-lapayowker-1)  
 
 ## Imaging techniques
 
@@ -895,6 +897,8 @@ input:checked + .slider:before {
 [Ataxia Clinical Sign](https://radiopaedia.org/articles/ataxia-clinical-sign)  
 [Acalculia](https://radiopaedia.org/articles/acalculia)  
 [Broca Aphasia](https://radiopaedia.org/articles/broca-aphasia)  
+[Visual Agnosia](https://radiopaedia.org/articles/visual-agnosia)  
+[Visual Hallucinations](https://radiopaedia.org/articles/visual-hallucinations)  
 [Cholinergic Crisis Mnemonic](https://radiopaedia.org/articles/cholinergic-crisis-mnemonic)  
 [Internuclear Ophthalmoplegia](https://radiopaedia.org/articles/internuclear-ophthalmoplegia)  
 [Investigating Diplopia Summary](https://radiopaedia.org/articles/investigating-diplopia-summary)  
