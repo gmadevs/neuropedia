@@ -378,10 +378,11 @@ input:checked + .slider:before {
 [Lingual Gyrus](https://radiopaedia.org/articles/lingual-gyrus)  
 [Primary Visual Cortex](https://radiopaedia.org/articles/primary-visual-cortex)  
 
-### Hypothalamus
+### Hypothalamus and pituitary gland
 
 [Supraoptic Nucleus](https://radiopaedia.org/articles/supraoptic-nucleus)  
 [Paraventricular Nucleus](https://radiopaedia.org/articles/paraventricular-nucleus)  
+[Pituitary Gland](https://radiopaedia.org/articles/pituitary-gland)  
 
 ### Limbic system
 

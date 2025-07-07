@@ -94,6 +94,7 @@ input:checked + .slider:before {
 [Low Lying Tonsils](https://radiopaedia.org/articles/low-lying-tonsils)  
 [Benign Enhancing Foramen Magnum Lesion](https://radiopaedia.org/articles/benign-enhancing-foramen-magnum-lesion-2)  
 [Ependymitis Granularis](https://radiopaedia.org/articles/ependymitis-granularis)  
+[Pituitary Hyperplasia](https://radiopaedia.org/articles/pituitary-hyperplasia-1)  
 
 ### Ventricular system
 

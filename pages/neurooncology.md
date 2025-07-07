@@ -173,17 +173,21 @@ input:checked + .slider:before {
 ## Pineal gland tumors
 
 [Pineal Region Mass](https://radiopaedia.org/articles/pineal-region-mass)  
+[Pineal Parenchymal Tumours](https://radiopaedia.org/articles/pineal-parenchymal-tumours)  
 [Pineoblastoma](https://radiopaedia.org/articles/pineoblastoma)  
 [Pineocytoma](https://radiopaedia.org/articles/pineocytoma)  
+[Pineal Germinoma](https://radiopaedia.org/articles/pineal-germinoma)  
 [Pineal Parenchymal Tumour Of Intermediate Differentiation](https://radiopaedia.org/articles/pineal-parenchymal-tumour-of-intermediate-differentiation)  
 [Pineal Gland Metastasis](https://radiopaedia.org/articles/pineal-gland-metastasis-1)  
 [Desmoplastic Myxoid Tumour Of The Pineal Region Smarcb1 Mutant](https://radiopaedia.org/articles/desmoplastic-myxoid-tumour-of-the-pineal-region-smarcb1-mutant-1)  
 [Pineal Yolk Sac Tumour](https://radiopaedia.org/articles/pineal-yolk-sac-tumour)  
+[Pineal Teratoma](https://radiopaedia.org/articles/pineal-teratoma)  
 
 ## Pituitary and hypothalamic tumors
 
 [Hypothalamic Lesions](https://radiopaedia.org/articles/hypothalamic-lesions)  
 [Pituitary Region Masses](https://radiopaedia.org/articles/pituitary-region-masses)  
+[Pituitary Region Mass Mnemonic](https://radiopaedia.org/articles/pituitary-region-mass-mnemonic)  
 [Pituitary Tumours](https://radiopaedia.org/articles/pituitary-tumours)  
 [Pituitary Adenoma/Pitnet](https://radiopaedia.org/articles/pituitary-adenomapitnet)  
 [Pituitary Macroadenoma](https://radiopaedia.org/articles/pituitary-macroadenoma-1)  
@@ -191,7 +195,10 @@ input:checked + .slider:before {
 [Zurich Pituitary Score](https://radiopaedia.org/articles/zurich-pituitary-score)  
 [Pituitary Lymphoma](https://radiopaedia.org/articles/pituitary-lymphoma)  
 [Pituitary Microadenoma](https://radiopaedia.org/articles/pituitary-microadenoma)  
+[Pituitary Carcinoma](https://radiopaedia.org/articles/pituitary-carcinoma)  
+[Pituitary Metastasis](https://radiopaedia.org/articles/pituitary-metastasis-1)  
 [Pituitary Blastoma](https://radiopaedia.org/articles/pituitary-blastoma)  
+[Pituicytoma](https://radiopaedia.org/articles/pituicytoma)  
 [Pituitary Xanthomatous Lesions](https://radiopaedia.org/articles/pituitary-xanthomatous-lesions)  
 [Spindle Cell Oncocytomas Of The Pituitary Gland](https://radiopaedia.org/articles/spindle-cell-oncocytomas-of-the-pituitary-gland)  
 [Craniopharyngioma Historical](https://radiopaedia.org/articles/craniopharyngioma-historical)  
@@ -251,6 +258,7 @@ input:checked + .slider:before {
 [Dural Venous Sinus Cyst](https://radiopaedia.org/articles/dural-venous-sinus-cyst)  
 [Hippocampal Sulcus Remnant Cyst](https://radiopaedia.org/articles/hippocampal-sulcus-remnant-cyst)  
 [Cyst With Dot Sign Rathke Cleft Cyst](https://radiopaedia.org/articles/cyst-with-dot-sign-rathke-cleft-cyst)  
+[Pineal Cyst](https://radiopaedia.org/articles/pineal-cyst)  
 
 ## Peripheral nerve tumors
 
