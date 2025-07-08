@@ -82,7 +82,11 @@ input:checked + .slider:before {
 
 ## Multiple sclerosis and variants
 
+[Multiple Sclerosis](https://radiopaedia.org/articles/multiple-sclerosis)  
 [Cortical Vein Sign](https://radiopaedia.org/articles/cortical-vein-sign)  
+[Paramagnetic Rim Lesions](https://radiopaedia.org/articles/paramagnetic-rim-lesions)  
+[Magnims Consensus On Mri Diagnosis Of Multiple Sclerosis](https://radiopaedia.org/articles/magnims-consensus-on-mri-diagnosis-of-multiple-sclerosis)  
+[Mcdonald Diagnostic Criteria For Multiple Sclerosis](https://radiopaedia.org/articles/mcdonald-diagnostic-criteria-for-multiple-sclerosis-4)  
 [Venus Necklace](https://radiopaedia.org/articles/venus-necklace)  
 [Marburg Variant Of Multiple Sclerosis](https://radiopaedia.org/articles/marburg-variant-of-multiple-sclerosis)  
 [Schilder Type Multiple Sclerosis](https://radiopaedia.org/articles/schilder-type-multiple-sclerosis)  
@@ -90,6 +94,7 @@ input:checked + .slider:before {
 
 ## Neuromyelitis optica and MOGAD
 
+[Myelin Oligodendrocyte Glycoprotein Antibody Associated Disease Mogad](https://radiopaedia.org/articles/myelin-oligodendrocyte-glycoprotein-antibody-associated-disease-mogad)  
 [H Sign Spinal Cord](https://radiopaedia.org/articles/h-sign-spinal-cord-1)  
 [Area Postrema Syndrome](https://radiopaedia.org/articles/area-postrema-syndrome)  
 

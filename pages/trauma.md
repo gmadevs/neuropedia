@@ -93,6 +93,7 @@ input:checked + .slider:before {
 
 [Extradural Haemorrhage Venous](https://radiopaedia.org/articles/extradural-haemorrhage-venous)  
 [Calcified Chronic Subdural Haematoma](https://radiopaedia.org/articles/calcified-chronic-subdural-haematoma)  
+[Subdural Hematohygroma](https://radiopaedia.org/articles/subdural-hematohygroma)  
 [Low Velocity Penetrating Brain Injury](https://radiopaedia.org/articles/low-velocity-penetrating-brain-injury)  
 [Diffuse Axonal Injury](https://radiopaedia.org/articles/diffuse-axonal-injury)  
 [Diffuse Axonal Injury Grading](https://radiopaedia.org/articles/diffuse-axonal-injury-grading-1)  

@@ -71,11 +71,16 @@ input:checked + .slider:before {
   <span>Show only recommended topics ⭐</span>
 </div>
 
-## Dementia
+## Dementia and degenerative disease
 
 ### Clinical scales
 
 [Hachinski Ischemic Scale](https://radiopaedia.org/articles/hachinski-ischemic-scale)  
+
+### Degenerative disease
+
+[Bright Tongue Sign](https://radiopaedia.org/articles/bright-tongue-sign)  
+[Progressive Muscular Atrophy](https://radiopaedia.org/articles/progressive-muscular-atrophy-2)  
 
 ## Movement disorders
 

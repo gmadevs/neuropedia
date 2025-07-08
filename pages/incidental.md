@@ -95,6 +95,8 @@ input:checked + .slider:before {
 [Benign Enhancing Foramen Magnum Lesion](https://radiopaedia.org/articles/benign-enhancing-foramen-magnum-lesion-2)  
 [Ependymitis Granularis](https://radiopaedia.org/articles/ependymitis-granularis)  
 [Pituitary Hyperplasia](https://radiopaedia.org/articles/pituitary-hyperplasia-1)  
+[Petalia](https://radiopaedia.org/articles/petalia)  
+[White Epidermoid Cyst](https://radiopaedia.org/articles/white-epidermoid-cyst)  
 
 ### Ventricular system
 

@@ -76,6 +76,7 @@ input:checked + .slider:before {
 [Non Ketotic Hyperglycaemic Seizure](https://radiopaedia.org/articles/non-ketotic-hyperglycaemic-seizure)  
 [Mild Encephalopathy With Reversible Splenial Lesion Mers](https://radiopaedia.org/articles/mild-encephalopathy-with-reversible-splenial-lesion-mers)  
 [Cirrhosis Cns Manifestations](https://radiopaedia.org/articles/cirrhosis-cns-manifestations)  
+[High Altitude Illness](https://radiopaedia.org/articles/high-altitude-illness-1)  
 
 ## Toxic disease
 
@@ -85,6 +86,7 @@ input:checked + .slider:before {
 [Wernicke Encephalopathy](https://radiopaedia.org/articles/wernicke-encephalopathy)  
 [Carbon Monoxide Poisoning](https://radiopaedia.org/articles/carbon-monoxide-poisoning-1)  
 [Levamisole Induced Leukoencephalopathy](https://radiopaedia.org/articles/levamisole-induced-leukoencephalopathy)  
+[Vigabatrin Associated Toxicity](https://radiopaedia.org/articles/vigabatrin-associated-toxicity)  
 [Cerebellar Hippocampal And Basal Nuclei Transient Oedema With Restricted Diffusion Chanter Syndrome](https://radiopaedia.org/articles/cerebellar-hippocampal-and-basal-nuclei-transient-oedema-with-restricted-diffusion-chanter-syndrome-1)  
 [Minamata Disease](https://radiopaedia.org/articles/minamata-disease-1)  
 

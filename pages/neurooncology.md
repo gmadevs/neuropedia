@@ -88,6 +88,7 @@ input:checked + .slider:before {
 [Gliosarcoma](https://radiopaedia.org/articles/gliosarcoma)  
 [Tectal Glioma](https://radiopaedia.org/articles/tectal-glioma)  
 [Diffuse Hemispheric Glioma H3 G34 Mutant](https://radiopaedia.org/articles/diffuse-hemispheric-glioma-h3-g34-mutant-1)  
+[Metastatic Glioblastoma](https://radiopaedia.org/articles/metastatic-glioblastoma)  
 [Diffuse Low Grade Glioma Mapk Pathway Altered](https://radiopaedia.org/articles/diffuse-low-grade-glioma-mapk-pathway-altered-1)  
 [Infant Type Hemispheric Glioma](https://radiopaedia.org/articles/infant-type-hemispheric-glioma-1)  
 [High Grade Astrocytoma With Piloid Features](https://radiopaedia.org/articles/high-grade-astrocytoma-with-piloid-features-1)  
@@ -125,6 +126,7 @@ input:checked + .slider:before {
 
 [Cns Tumour With Bcor Internal Tandem Duplication](https://radiopaedia.org/articles/cns-tumour-with-bcor-internal-tandem-duplication)  
 [Cns Neuroblastoma Foxr2 Activated](https://radiopaedia.org/articles/cns-neuroblastoma-foxr2-activated-1)  
+[Medulloepithelioma Of The Brain](https://radiopaedia.org/articles/medulloepithelioma-of-the-brain-1)  
 
 ## Lymphomas and hematological tumors
 

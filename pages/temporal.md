@@ -71,6 +71,10 @@ input:checked + .slider:before {
   <span>Show only recommended topics ⭐</span>
 </div>
 
+## Inflammatory disease
+
+[Acute Mastoiditis](https://radiopaedia.org/articles/acute-mastoiditis)  
+
 ## Congenital disease
 
 [Enlarged Vestibular Aqueduct](https://radiopaedia.org/articles/enlarged-vestibular-aqueduct)  
