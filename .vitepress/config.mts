@@ -50,6 +50,7 @@ export default defineConfig({
           { text: 'Epilepsy', link: '/pages/epilepsy' },
           { text: 'Spine', link: '/pages/spine' },
           { text: 'Orbit', link: '/pages/orbit' },
+          { text: 'Pituitary', link: '/pages/pituitary' },
           { text: 'Temporal bone', link: '/pages/temporal' },
           { text: 'Pediatric', link: '/pages/pediatric' }
         ]

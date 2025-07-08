@@ -83,6 +83,10 @@ input:checked + .slider:before {
 [Who Classification Of Head And Neck Tumors](https://radiopaedia.org/articles/who-classification-of-head-and-neck-tumors)  
 [Adenoid Cystic Carcinoma](https://radiopaedia.org/articles/adenoid-cystic-carcinoma)  
 
+### Jaw lesions
+
+[Cementoblastoma](https://radiopaedia.org/articles/cementoblastoma)  
+
 ## Toxic pathology
 
 [Cocaine Induced Midline Destructive Lesion](https://radiopaedia.org/articles/cocaine-induced-midline-destructive-lesion)  

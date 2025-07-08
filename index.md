@@ -134,6 +134,14 @@ features:
       width: 24
       height: 24   
 
+  - title: Pituitary gland
+    details: Pituitary gland non neoplastic diseases
+    link: /pages/pituitary
+    icon:
+      src: /pituitary.png
+      width: 24
+      height: 24   
+
   - title: Temporal bone
     details: Temporal bone pathologies
     link: /pages/temporal

@@ -96,6 +96,7 @@ input:checked + .slider:before {
 
 ## Degenerative disease
 
+[Cervical Canal Stenosis](https://radiopaedia.org/articles/cervical-canal-stenosis)  
 [Kang Grading System Of Cervical Canal Stenosis](https://radiopaedia.org/articles/kang-grading-system-of-cervical-canal-stenosis)  
 [Wiltse Classification Of Spondylolisthesis](https://radiopaedia.org/articles/wiltse-classification-of-spondylolisthesis)  
 
