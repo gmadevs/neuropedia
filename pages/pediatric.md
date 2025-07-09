@@ -84,6 +84,7 @@ input:checked + .slider:before {
 [Cephalocele](https://radiopaedia.org/articles/cephalocele-1)  
 [Atypical Callosal Dysgenesis](https://radiopaedia.org/articles/atypical-callosal-dysgenesis)  
 [Arhinencephaly](https://radiopaedia.org/articles/arhinencephaly)  
+[Cebocephaly](https://radiopaedia.org/articles/cebocephaly)  
 [Craniorachischisis](https://radiopaedia.org/articles/craniorachischisis)  
 [Hemifacial Hypertrophy](https://radiopaedia.org/articles/hemifacial-hypertrophy-1)  
 
