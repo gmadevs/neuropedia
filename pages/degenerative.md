@@ -81,6 +81,7 @@ input:checked + .slider:before {
 
 [Bright Tongue Sign](https://radiopaedia.org/articles/bright-tongue-sign)  
 [Progressive Muscular Atrophy](https://radiopaedia.org/articles/progressive-muscular-atrophy-2)  
+[Progressive Encephalomyelitis With Rigidity And Myoclonus](https://radiopaedia.org/articles/progressive-encephalomyelitis-with-rigidity-and-myoclonus)  
 
 ## Movement disorders
 
