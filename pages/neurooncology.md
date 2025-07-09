@@ -114,6 +114,7 @@ input:checked + .slider:before {
 [Diffuse Glioneuronal Tumour With Oligodendroglioma Like Features And Nuclear Clusters](https://radiopaedia.org/articles/diffuse-glioneuronal-tumour-with-oligodendroglioma-like-features-and-nuclear-clusters)  
 [Myxoid Glioneuronal Tumour](https://radiopaedia.org/articles/myxoid-glioneuronal-tumour)  
 [Rosette Forming Glioneuronal Tumour](https://radiopaedia.org/articles/rosette-forming-glioneuronal-tumour-1)  
+[Green Bell Pepper Sign](https://radiopaedia.org/articles/green-bell-pepper-sign-1)  
 [Polymorphous Low Grade Neuroepithelial Tumour Of The Young](https://radiopaedia.org/articles/polymorphous-low-grade-neuroepithelial-tumour-of-the-young)  
 
 ## Germ cell and embryonal tumors

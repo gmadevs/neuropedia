@@ -175,6 +175,8 @@ input:checked + .slider:before {
 [Gm2 Gangliosidoses](https://radiopaedia.org/articles/gm2-gangliosidoses)  
 [Hartnup Disease](https://radiopaedia.org/articles/hartnup-disease)  
 [Riley Day Syndrome](https://radiopaedia.org/articles/riley-day-syndrome)  
+[Horizontal Gaze Palsy With Progressive Scoliosis](https://radiopaedia.org/articles/horizontal-gaze-palsy-with-progressive-scoliosis)  
+[Split Pons Sign](https://radiopaedia.org/articles/split-pons-sign)  
 
 ### Neuromuscular diseases and dystrophies
 
