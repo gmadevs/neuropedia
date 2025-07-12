@@ -106,6 +106,12 @@ input:checked + .slider:before {
 
 [Neurocristopathy Syndromes](https://radiopaedia.org/articles/neurocristopathy-syndromes)  
 
+## Pediatric encephalopathies
+
+[Trilaminar Sign](https://radiopaedia.org/articles/trilaminar-sign)  
+[Acute Encephalopathy With Biphasic Seizures And Late Reduced Diffusion](https://radiopaedia.org/articles/acute-encephalopathy-with-biphasic-seizures-and-late-reduced-diffusion)  
+[Cerebral Palsy](https://radiopaedia.org/articles/cerebral-palsy)  
+
 ## Leukodystrophies
 
 [Metachromatic Leukodystrophy](https://radiopaedia.org/articles/metachromatic-leukodystrophy)  
@@ -192,6 +198,7 @@ input:checked + .slider:before {
 
 [Krabbe Disease](https://radiopaedia.org/articles/krabbe-disease)  
 [Fabry Disease Neurological Manifestations](https://radiopaedia.org/articles/fabry-disease-neurological-manifestations)  
+[Sandhoff Disease](https://radiopaedia.org/articles/sandhoff-disease)  
 
 ### Mitochondrial disorders
 

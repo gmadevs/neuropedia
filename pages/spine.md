@@ -98,6 +98,7 @@ input:checked + .slider:before {
 
 [Cervical Canal Stenosis](https://radiopaedia.org/articles/cervical-canal-stenosis)  
 [Kang Grading System Of Cervical Canal Stenosis](https://radiopaedia.org/articles/kang-grading-system-of-cervical-canal-stenosis)  
+[Redundant Nerve Roots Of The Cauda Equina](https://radiopaedia.org/articles/redundant-nerve-roots-of-the-cauda-equina)  
 [Wiltse Classification Of Spondylolisthesis](https://radiopaedia.org/articles/wiltse-classification-of-spondylolisthesis)  
 
 ## Metabolic disease

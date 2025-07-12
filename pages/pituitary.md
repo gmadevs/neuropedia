@@ -71,3 +71,6 @@ input:checked + .slider:before {
   <span>Show only recommended topics ⭐</span>
 </div>
 
+## Inflammatory
+
+[Parasellar Dark T2 Signal Sign](https://radiopaedia.org/articles/parasellar-dark-t2-signal-sign)  

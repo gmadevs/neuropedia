@@ -77,6 +77,7 @@ input:checked + .slider:before {
 [Mild Encephalopathy With Reversible Splenial Lesion Mers](https://radiopaedia.org/articles/mild-encephalopathy-with-reversible-splenial-lesion-mers)  
 [Cirrhosis Cns Manifestations](https://radiopaedia.org/articles/cirrhosis-cns-manifestations)  
 [High Altitude Illness](https://radiopaedia.org/articles/high-altitude-illness-1)  
+[Extrapontine Myelinolysis](https://radiopaedia.org/articles/extrapontine-myelinolysis-1)  
 
 ## Toxic disease
 

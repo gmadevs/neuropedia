@@ -102,6 +102,7 @@ input:checked + .slider:before {
 
 [Progressive Multifocal Leukoencephalopathy](https://radiopaedia.org/articles/progressive-multifocal-leukoencephalopathy)  
 [Bickerstaff Encephalitis](https://radiopaedia.org/articles/bickerstaff-encephalitis)  
+[Guillain Barre Syndrome](https://radiopaedia.org/articles/guillain-barre-syndrome-2)  
 
 ## Other CNS inflammatory manifestations
 
