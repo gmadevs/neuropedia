@@ -143,6 +143,7 @@ input:checked + .slider:before {
 [Neoplastic Intracranial Aneurysm](https://radiopaedia.org/articles/neoplastic-intracranial-aneurysm)
 [Ruptured Saccular Aneurysm](https://radiopaedia.org/articles/ruptured-saccular-aneurysm)  
 [Jet Haematoma](https://radiopaedia.org/articles/jet-haematoma)  
+[Murpheys Teat](https://radiopaedia.org/articles/murpheys-teat)  
 [Shunt Dependency In Symptomatic Aneurysmal Subarachnoid Haemorrhage Score](https://radiopaedia.org/articles/shunt-dependency-in-symptomatic-aneurysmal-subarachnoid-haemorrhage-score)  
 [Delayed Cerebral Ischaemia](https://radiopaedia.org/articles/delayed-cerebral-ischaemia)  
 [Endosaccular Flow Disruption Devices](https://radiopaedia.org/articles/endosaccular-flow-disruption-devices)  

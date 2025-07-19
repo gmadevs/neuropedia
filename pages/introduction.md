@@ -908,6 +908,7 @@ input:checked + .slider:before {
 [Investigating Diplopia Summary](https://radiopaedia.org/articles/investigating-diplopia-summary)  
 [Investigating Strabismus Summary](https://radiopaedia.org/articles/investigating-strabismus-summary)  
 [Investigating Amblyopia Summary](https://radiopaedia.org/articles/investigating-amblyopia-summary)  
+[Visual Pathway Defecits](https://radiopaedia.org/articles/visual-pathway-defecits)  
 [Investigating Focal Weakness Summary](https://radiopaedia.org/articles/investigating-focal-weakness-summary)  
 [Cerebellar Disease Signs Mnemonic](https://radiopaedia.org/articles/cerebellar-disease-signs-mnemonic)  
 [Babinski Reflex](https://radiopaedia.org/articles/babinski-reflex)  
@@ -923,6 +924,10 @@ input:checked + .slider:before {
 [Post Dural Puncture Headache](https://radiopaedia.org/articles/post-dural-puncture-headache)  
 [Alice In Wonderland Syndrome](https://radiopaedia.org/articles/alice-in-wonderland-syndrome)  
 [Multiple Sclerosis Summary](https://radiopaedia.org/articles/multiple-sclerosis-summary)  
+[Anton Babinski Syndrome](https://radiopaedia.org/articles/anton-babinski-syndrome)  
+[Kluver Bucy Syndrome](https://radiopaedia.org/articles/kluver-bucy-syndrome-1)  
+[Numb Chin Syndrome](https://radiopaedia.org/articles/numb-chin-syndrome)  
+[Garcin Syndrome](https://radiopaedia.org/articles/garcin-syndrome)  
 
 ### Neurodegenerative disease
 

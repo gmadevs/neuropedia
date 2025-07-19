@@ -227,6 +227,10 @@ input:checked + .slider:before {
 [Sturge Weber Syndrome](https://radiopaedia.org/articles/sturge-weber-syndrome-1)  
 [Ataxia Telangiectasia](https://radiopaedia.org/articles/ataxia-telangiectasia-1)  
 
+## Vascular malformation syndromes
+
+[Wyburn Mason Syndrome](https://radiopaedia.org/articles/wyburn-mason-syndrome)  
+
 ## Spinal dysraphysm
 
 [Caudal Regression Syndrome](https://radiopaedia.org/articles/caudal-regression-syndrome)  
