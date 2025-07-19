@@ -111,6 +111,7 @@ input:checked + .slider:before {
 [Trilaminar Sign](https://radiopaedia.org/articles/trilaminar-sign)  
 [Acute Encephalopathy With Biphasic Seizures And Late Reduced Diffusion](https://radiopaedia.org/articles/acute-encephalopathy-with-biphasic-seizures-and-late-reduced-diffusion)  
 [Cerebral Palsy](https://radiopaedia.org/articles/cerebral-palsy)  
+[Acute Leukoencephalopathy With Restricted Diffusion](https://radiopaedia.org/articles/acute-leukoencephalopathy-with-restricted-diffusion)  
 
 ## Leukodystrophies
 
@@ -183,6 +184,7 @@ input:checked + .slider:before {
 [Riley Day Syndrome](https://radiopaedia.org/articles/riley-day-syndrome)  
 [Horizontal Gaze Palsy With Progressive Scoliosis](https://radiopaedia.org/articles/horizontal-gaze-palsy-with-progressive-scoliosis)  
 [Split Pons Sign](https://radiopaedia.org/articles/split-pons-sign)  
+[Mitochondrial Neurogastrointestinal Encephalomyopathy](https://radiopaedia.org/articles/mitochondrial-neurogastrointestinal-encephalomyopathy)  
 
 ### Neuromuscular diseases and dystrophies
 

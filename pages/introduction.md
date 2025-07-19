@@ -988,3 +988,4 @@ input:checked + .slider:before {
 ### Spine
 
 [Widening Of Interpedicular Distance](https://radiopaedia.org/articles/widening-of-interpedicular-distance)  
+[Diffuse Bone Marrow Infiltration On Mri Mnemonic](https://radiopaedia.org/articles/diffuse-bone-marrow-infiltration-on-mri-mnemonic)  
