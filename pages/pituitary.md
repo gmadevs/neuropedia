@@ -74,3 +74,7 @@ input:checked + .slider:before {
 ## Inflammatory
 
 [Parasellar Dark T2 Signal Sign](https://radiopaedia.org/articles/parasellar-dark-t2-signal-sign)  
+
+## Malformative
+
+[Duplication Of The Pituitary Gland Plus Syndrome](https://radiopaedia.org/articles/duplication-of-the-pituitary-gland-plus-syndrome)  

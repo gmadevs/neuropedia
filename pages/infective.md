@@ -101,7 +101,7 @@ input:checked + .slider:before {
 [Hiv/Aids](https://radiopaedia.org/articles/hivaids)  
 [Hiv/Aids Cns Manifestations](https://radiopaedia.org/articles/hivaids-cns-manifestations-1)  
 [White Matter Changes In Hiv](https://radiopaedia.org/articles/white-matter-changes-in-hiv)  
-
+[Disseminated Histoplasmosis](https://radiopaedia.org/articles/disseminated-histoplasmosis)  
 
 ## Parasitic and fungal infections
 

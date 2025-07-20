@@ -73,11 +73,11 @@ input:checked + .slider:before {
 
 ## Metabolic disease
 
-[Non Ketotic Hyperglycaemic Seizure](https://radiopaedia.org/articles/non-ketotic-hyperglycaemic-seizure)  
 [Mild Encephalopathy With Reversible Splenial Lesion Mers](https://radiopaedia.org/articles/mild-encephalopathy-with-reversible-splenial-lesion-mers)  
+[Non Ketotic Hyperglycaemic Seizure](https://radiopaedia.org/articles/non-ketotic-hyperglycaemic-seizure)  
 [Cirrhosis Cns Manifestations](https://radiopaedia.org/articles/cirrhosis-cns-manifestations)  
-[High Altitude Illness](https://radiopaedia.org/articles/high-altitude-illness-1)  
 [Extrapontine Myelinolysis](https://radiopaedia.org/articles/extrapontine-myelinolysis-1)  
+[High Altitude Illness](https://radiopaedia.org/articles/high-altitude-illness-1)  
 
 ## Toxic disease
 

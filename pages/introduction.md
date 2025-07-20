@@ -153,6 +153,7 @@ input:checked + .slider:before {
 [Extradural Space](https://radiopaedia.org/articles/extradural-space)  
 [Arachnoid Mater](https://radiopaedia.org/articles/arachnoid-mater)  
 [Subarachnoid Space](https://radiopaedia.org/articles/subarachnoid-space)  
+[Subarachnoid Lymphatic Like Membrane](https://radiopaedia.org/articles/subarachnoid-lymphatic-like-membrane)  
 [Pia Mater](https://radiopaedia.org/articles/pia-mater)  
 [Ganglion](https://radiopaedia.org/articles/ganglion)  
 [Perivascular Spaces](https://radiopaedia.org/articles/perivascular-spaces)  
@@ -928,6 +929,7 @@ input:checked + .slider:before {
 [Kluver Bucy Syndrome](https://radiopaedia.org/articles/kluver-bucy-syndrome-1)  
 [Numb Chin Syndrome](https://radiopaedia.org/articles/numb-chin-syndrome)  
 [Garcin Syndrome](https://radiopaedia.org/articles/garcin-syndrome)  
+[Cestan Chenais Syndrome](https://radiopaedia.org/articles/cestan-chenais-syndrome)  
 
 ### Neurodegenerative disease
 
