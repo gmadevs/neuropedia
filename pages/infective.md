@@ -111,3 +111,4 @@ input:checked + .slider:before {
 [Neurocandidiasis](https://radiopaedia.org/articles/neurocandidiasis)  
 [Primary Amoebic Meningoencephalitis](https://radiopaedia.org/articles/primary-amoebic-meningoencephalitis)  
 [Coccidioidal Meningitis](https://radiopaedia.org/articles/coccidioidal-meningitis)  
+[Cladophialophora Infection](https://radiopaedia.org/articles/cladophialophora-infection)  

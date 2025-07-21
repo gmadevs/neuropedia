@@ -78,7 +78,13 @@ input:checked + .slider:before {
 [Zygomaticus Minor Muscle](https://radiopaedia.org/articles/zygomaticus-minor-muscle)  
 [Zuckerkandl Tubercle](https://radiopaedia.org/articles/zuckerkandl-tubercle)  
 
-## Tumors
+## Tumors and masses
+
+### Benign masses
+
+[Nasal Dermoid Cyst](https://radiopaedia.org/articles/nasal-dermoid-cyst)  
+
+### Malignant masses
 
 [Who Classification Of Head And Neck Tumors](https://radiopaedia.org/articles/who-classification-of-head-and-neck-tumors)  
 [Adenoid Cystic Carcinoma](https://radiopaedia.org/articles/adenoid-cystic-carcinoma)  

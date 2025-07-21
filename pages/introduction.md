@@ -913,6 +913,7 @@ input:checked + .slider:before {
 [Investigating Focal Weakness Summary](https://radiopaedia.org/articles/investigating-focal-weakness-summary)  
 [Cerebellar Disease Signs Mnemonic](https://radiopaedia.org/articles/cerebellar-disease-signs-mnemonic)  
 [Babinski Reflex](https://radiopaedia.org/articles/babinski-reflex)  
+[Acute Flaccid Paralysis](https://radiopaedia.org/articles/acute-flaccid-paralysis)  
 [Botulism](https://radiopaedia.org/articles/botulism)  
 [Tetanus](https://radiopaedia.org/articles/tetanus)  
 [Adie Pupil](https://radiopaedia.org/articles/adie-pupil)  
@@ -930,6 +931,7 @@ input:checked + .slider:before {
 [Numb Chin Syndrome](https://radiopaedia.org/articles/numb-chin-syndrome)  
 [Garcin Syndrome](https://radiopaedia.org/articles/garcin-syndrome)  
 [Cestan Chenais Syndrome](https://radiopaedia.org/articles/cestan-chenais-syndrome)  
+[Csf Alpha Fetoprotein](https://radiopaedia.org/articles/csf-alpha-fetoprotein-1)  
 
 ### Neurodegenerative disease
 
