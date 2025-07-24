@@ -101,6 +101,7 @@ input:checked + .slider:before {
 ## Craniosynostosis
 
 [Trigonocephaly](https://radiopaedia.org/articles/trigonocephaly)  
+[Mercedes Benz Craniosynostosis Syndrome](https://radiopaedia.org/articles/mercedes-benz-craniosynostosis-syndrome)  
 
 ## Migration disorders
 
