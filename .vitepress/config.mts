@@ -71,7 +71,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/gmadevs/neuropedia' },
       { icon: 'x', link: 'https://x.com/agazzi_giorgio' },
-      { icon: 'discord', link: 'https://discord.gg/R6NDhssJ' }
+      { icon: 'discord', link: 'https://discord.gg/CM6Sgehk' }
     ]
   }
 })
