@@ -186,6 +186,7 @@ input:checked + .slider:before {
 [Horizontal Gaze Palsy With Progressive Scoliosis](https://radiopaedia.org/articles/horizontal-gaze-palsy-with-progressive-scoliosis)  
 [Split Pons Sign](https://radiopaedia.org/articles/split-pons-sign)  
 [Mitochondrial Neurogastrointestinal Encephalomyopathy](https://radiopaedia.org/articles/mitochondrial-neurogastrointestinal-encephalomyopathy)  
+[Wolfram Syndrome Type One](https://radiopaedia.org/articles/wolfram-syndrome-type-one)  
 
 ### Neuromuscular diseases and dystrophies
 

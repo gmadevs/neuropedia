@@ -75,6 +75,7 @@ input:checked + .slider:before {
 
 [Mild Encephalopathy With Reversible Splenial Lesion Mers](https://radiopaedia.org/articles/mild-encephalopathy-with-reversible-splenial-lesion-mers)  
 [Non Ketotic Hyperglycaemic Seizure](https://radiopaedia.org/articles/non-ketotic-hyperglycaemic-seizure)  
+[Hemichorea Hemiballismus Syndrome](https://radiopaedia.org/articles/hemichorea-hemiballismus-syndrome-1)  
 [Cirrhosis Cns Manifestations](https://radiopaedia.org/articles/cirrhosis-cns-manifestations)  
 [Extrapontine Myelinolysis](https://radiopaedia.org/articles/extrapontine-myelinolysis-1)  
 [High Altitude Illness](https://radiopaedia.org/articles/high-altitude-illness-1)  

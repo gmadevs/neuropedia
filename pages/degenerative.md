@@ -88,6 +88,7 @@ input:checked + .slider:before {
 ### Hereditary movement disorders
 
 [Friedreich Ataxia ⭐](https://radiopaedia.org/articles/friedreich-ataxia)  
+[Fragile X Syndrome](https://radiopaedia.org/articles/fragile-x-syndrome)  
 
 ## Prion disease
 

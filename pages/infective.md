@@ -84,6 +84,7 @@ input:checked + .slider:before {
 [Leptospirosis](https://radiopaedia.org/articles/leptospirosis)  
 [Syphilis](https://radiopaedia.org/articles/syphilis)  
 [Neurosyphilis](https://radiopaedia.org/articles/neurosyphilis)  
+[Concentric Target Sign Cerebral Toxoplasmosis](https://radiopaedia.org/articles/concentric-target-sign-cerebral-toxoplasmosis)  
 [Toxoplasmosis Vs Lymphoma](https://radiopaedia.org/articles/toxoplasmosis-vs-lymphoma)  
 
 ## Viral infections
@@ -96,6 +97,8 @@ input:checked + .slider:before {
 [Murray Valley Encephalitis](https://radiopaedia.org/articles/murray-valley-encephalitis)  
 [Eastern Equine Encephalitis](https://radiopaedia.org/articles/eastern-equine-encephalitis)  
 [Tick Borne Encephalitis](https://radiopaedia.org/articles/tick-borne-encephalitis-3)  
+[Dengue Encephalitis](https://radiopaedia.org/articles/dengue-encephalitis)  
+[Zika Virus Infection](https://radiopaedia.org/articles/zika-virus-infection)  
 
 ### HIV
 
