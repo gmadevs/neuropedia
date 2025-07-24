@@ -136,6 +136,7 @@ input:checked + .slider:before {
 [Asymmetrically Large Jugular Bulb](https://radiopaedia.org/articles/asymmetrically-large-jugular-bulb)  
 [High Riding Jugular Bulb](https://radiopaedia.org/articles/high-riding-jugular-bulb-3)  
 [Developmental Venous Anomaly](https://radiopaedia.org/articles/developmental-venous-anomaly)  
+[Cavernous Sinus Gas](https://radiopaedia.org/articles/cavernous-sinus-gas)  
 
 ## Spine common incidentals
 

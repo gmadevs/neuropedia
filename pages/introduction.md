@@ -897,6 +897,7 @@ input:checked + .slider:before {
 [Alexia](https://radiopaedia.org/articles/alexia)  
 [Cacosmia](https://radiopaedia.org/articles/cacosmia)  
 [Deafness](https://radiopaedia.org/articles/deafness)  
+[Dual Stream Language Processing Models](https://radiopaedia.org/articles/dual-stream-language-processing-models)  
 [Xerostomia](https://radiopaedia.org/articles/xerostomia)  
 [Ataxia Clinical Sign](https://radiopaedia.org/articles/ataxia-clinical-sign)  
 [Acalculia](https://radiopaedia.org/articles/acalculia)  
@@ -914,13 +915,16 @@ input:checked + .slider:before {
 [Cerebellar Disease Signs Mnemonic](https://radiopaedia.org/articles/cerebellar-disease-signs-mnemonic)  
 [Babinski Reflex](https://radiopaedia.org/articles/babinski-reflex)  
 [Acute Flaccid Paralysis](https://radiopaedia.org/articles/acute-flaccid-paralysis)  
+[Rosenbach Sign Hemiplegia](https://radiopaedia.org/articles/rosenbach-sign-hemiplegia)  
 [Botulism](https://radiopaedia.org/articles/botulism)  
 [Tetanus](https://radiopaedia.org/articles/tetanus)  
 [Adie Pupil](https://radiopaedia.org/articles/adie-pupil)  
+[Tapia Syndrome](https://radiopaedia.org/articles/tapia-syndrome)  
 [Argyll Robertson Pupil](https://radiopaedia.org/articles/argyll-robertson-pupil)  
 [Full Outline Of Unresponsiveness Score](https://radiopaedia.org/articles/full-outline-of-unresponsiveness-score)  
 [Split Hand Sign](https://radiopaedia.org/articles/split-hand-sign)  
 [Horner Syndrome Signs Mnemonic](https://radiopaedia.org/articles/horner-syndrome-signs-mnemonic)  
+[Opalski Syndrome](https://radiopaedia.org/articles/opalski-syndrome)  
 [Pseudobulbar Palsy](https://radiopaedia.org/articles/pseudobulbar-palsy)  
 [Dry Tap Lumbar Puncture](https://radiopaedia.org/articles/dry-tap-lumbar-puncture-1)  
 [Post Dural Puncture Headache](https://radiopaedia.org/articles/post-dural-puncture-headache)  
@@ -975,6 +979,7 @@ input:checked + .slider:before {
 [Post Hydrocephalus Corpus Callosum Damage](https://radiopaedia.org/articles/post-hydrocephalus-corpus-callosum-damage)  
 [Zebra Sign Cerebellum](https://radiopaedia.org/articles/zebra-sign-cerebellum)  
 [Pseudohypoxic Brain Swelling](https://radiopaedia.org/articles/pseudohypoxic-brain-swelling-1)  
+[Central Herniation](https://radiopaedia.org/articles/central-herniation)  
 
 ## General imaging patterns
 

@@ -158,6 +158,11 @@ input:checked + .slider:before {
 [Ivy Sign Brain](https://radiopaedia.org/articles/ivy-sign-brain)  
 [Sinus Pericranii](https://radiopaedia.org/articles/sinus-pericranii)  
 
+## Headache
+
+[Trigeminal Autonomic Cephalgia](https://radiopaedia.org/articles/trigeminal-autonomic-cephalgia)  
+[Short Lasting Unilateral Neuralgiform Headache Attacks](https://radiopaedia.org/articles/short-lasting-unilateral-neuralgiform-headache-attacks)  
+
 ## CNS vasculitis
 
 [Giant Cell Arteritis](https://radiopaedia.org/articles/giant-cell-arteritis)  

@@ -95,6 +95,7 @@ input:checked + .slider:before {
 [Enterovirus Rhombencephalitis](https://radiopaedia.org/articles/enterovirus-rhombencephalitis)  
 [Murray Valley Encephalitis](https://radiopaedia.org/articles/murray-valley-encephalitis)  
 [Eastern Equine Encephalitis](https://radiopaedia.org/articles/eastern-equine-encephalitis)  
+[Tick Borne Encephalitis](https://radiopaedia.org/articles/tick-borne-encephalitis-3)  
 
 ### HIV
 

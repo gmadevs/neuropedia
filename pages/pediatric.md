@@ -231,6 +231,7 @@ input:checked + .slider:before {
 ## Vascular malformation syndromes
 
 [Wyburn Mason Syndrome](https://radiopaedia.org/articles/wyburn-mason-syndrome)  
+[Multisystemic Smooth Muscle Dysfunction Syndrome](https://radiopaedia.org/articles/multisystemic-smooth-muscle-dysfunction-syndrome)  
 
 ## Toxic disease
 

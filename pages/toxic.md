@@ -91,6 +91,7 @@ input:checked + .slider:before {
 [Vigabatrin Associated Toxicity](https://radiopaedia.org/articles/vigabatrin-associated-toxicity)  
 [Cerebellar Hippocampal And Basal Nuclei Transient Oedema With Restricted Diffusion Chanter Syndrome](https://radiopaedia.org/articles/cerebellar-hippocampal-and-basal-nuclei-transient-oedema-with-restricted-diffusion-chanter-syndrome-1)  
 [Minamata Disease](https://radiopaedia.org/articles/minamata-disease-1)  
+[React Syndrome](https://radiopaedia.org/articles/react-syndrome)  
 
 ## Genetic disease
 

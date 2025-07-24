@@ -235,6 +235,7 @@ input:checked + .slider:before {
 [Mucinous Cerebral Metastases](https://radiopaedia.org/articles/mucinous-cerebral-metastases)  
 [Occipital Condyle Syndrome](https://radiopaedia.org/articles/occipital-condyle-syndrome)  
 [Collet Sicard Syndrome](https://radiopaedia.org/articles/collet-sicard-syndrome)  
+[Godtfredsen Syndrome](https://radiopaedia.org/articles/godtfredsen-syndrome)  
 [Drop Metastases Mnemonic](https://radiopaedia.org/articles/drop-metastases-mnemonic)  
 [Tumour To Tumour Metastasis](https://radiopaedia.org/articles/tumour-to-tumour-metastasis-1)  
 
@@ -263,6 +264,7 @@ input:checked + .slider:before {
 [Tumour Pseudoresponse](https://radiopaedia.org/articles/tumour-pseudoresponse)  
 [Complications Of Radiation Therapy](https://radiopaedia.org/articles/complications-of-radiation-therapy)  
 [Smart Syndrome](https://radiopaedia.org/articles/smart-syndrome)  
+[Peri Ictal Pseudoprogression](https://radiopaedia.org/articles/peri-ictal-pseudoprogression-1)  
 [Radiation Induced Glioma](https://radiopaedia.org/articles/radiation-induced-glioma)  
 [Cytokine Release Syndrome](https://radiopaedia.org/articles/cytokine-release-syndrome-1)  
 [Immune Effector Cell Associated Neurotoxicity Syndrome Ican](https://radiopaedia.org/articles/immune-effector-cell-associated-neurotoxicity-syndrome-icans)  
