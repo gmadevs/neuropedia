@@ -232,9 +232,15 @@ input:checked + .slider:before {
 
 [Wyburn Mason Syndrome](https://radiopaedia.org/articles/wyburn-mason-syndrome)  
 
+## Toxic disease
+
+[Paediatric Opioid Use Associated Neurotoxicity With Cerebellar Oedema Pounce Syndrome](https://radiopaedia.org/articles/paediatric-opioid-useassociated-neurotoxicity-with-cerebellar-oedema-pounce-syndrome)  
+[Reye Syndrome](https://radiopaedia.org/articles/reye-syndrome)  
+
 ## Spinal dysraphysm
 
 [Caudal Regression Syndrome](https://radiopaedia.org/articles/caudal-regression-syndrome)  
+[Placode](https://radiopaedia.org/articles/placode)  
 
 ## Fetal radiology
 

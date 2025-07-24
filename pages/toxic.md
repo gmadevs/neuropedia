@@ -86,6 +86,7 @@ input:checked + .slider:before {
 [Wernicke Korsakoff Syndrome Mnemonic](https://radiopaedia.org/articles/wernicke-korsakoff-syndrome-mnemonic)  
 [Wernicke Encephalopathy](https://radiopaedia.org/articles/wernicke-encephalopathy)  
 [Carbon Monoxide Poisoning](https://radiopaedia.org/articles/carbon-monoxide-poisoning-1)  
+[Delayed Posthypoxic Leukoencephalopathy](https://radiopaedia.org/articles/delayed-posthypoxic-leukoencephalopathy)  
 [Levamisole Induced Leukoencephalopathy](https://radiopaedia.org/articles/levamisole-induced-leukoencephalopathy)  
 [Vigabatrin Associated Toxicity](https://radiopaedia.org/articles/vigabatrin-associated-toxicity)  
 [Cerebellar Hippocampal And Basal Nuclei Transient Oedema With Restricted Diffusion Chanter Syndrome](https://radiopaedia.org/articles/cerebellar-hippocampal-and-basal-nuclei-transient-oedema-with-restricted-diffusion-chanter-syndrome-1)  
