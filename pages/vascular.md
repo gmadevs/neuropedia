@@ -119,6 +119,10 @@ input:checked + .slider:before {
 [Anoxic Brain Injury](https://radiopaedia.org/articles/anoxic-brain-injury)  
 [White Cerebellum Sign](https://radiopaedia.org/articles/white-cerebellum-sign)  
 
+## Venous stroke
+
+[Dense Vein Sign](https://radiopaedia.org/articles/dense-vein-sign)  
+
 ## Haemorrhagic stroke and intraparenchimal hemorrhage
 
 [Haemorrhagic Stroke Summary](https://radiopaedia.org/articles/haemorrhagic-stroke-summary)  

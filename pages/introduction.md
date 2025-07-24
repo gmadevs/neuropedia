@@ -756,6 +756,7 @@ input:checked + .slider:before {
 [Rubrospinal Tract](https://radiopaedia.org/articles/rubrospinal-tract)  
 [Spinocerebellar Tract](https://radiopaedia.org/articles/spinocerebellar-tract)  
 [Medial Lemniscus](https://radiopaedia.org/articles/medial-lemniscus)  
+[Lateral Lemniscus](https://radiopaedia.org/articles/lateral-lemniscus)  
 [Medial Longitudinal Fasciculus](https://radiopaedia.org/articles/medial-longitudinal-fasciculus-1)  
 [Gracile Fasciculus](https://radiopaedia.org/articles/gracile-fasciculus-1)  
 
@@ -980,6 +981,7 @@ input:checked + .slider:before {
 [Zebra Sign Cerebellum](https://radiopaedia.org/articles/zebra-sign-cerebellum)  
 [Pseudohypoxic Brain Swelling](https://radiopaedia.org/articles/pseudohypoxic-brain-swelling-1)  
 [Central Herniation](https://radiopaedia.org/articles/central-herniation)  
+[Cerebellar Mutism Syndrome](https://radiopaedia.org/articles/cerebellar-mutism-syndrome)  
 
 ## General imaging patterns
 

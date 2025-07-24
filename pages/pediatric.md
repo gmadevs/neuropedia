@@ -200,6 +200,7 @@ input:checked + .slider:before {
 
 ### Lysosomial disorders
 
+[Lysosomal Storage Disorders](https://radiopaedia.org/articles/lysosomal-storage-disorders)  
 [Krabbe Disease](https://radiopaedia.org/articles/krabbe-disease)  
 [Fabry Disease Neurological Manifestations](https://radiopaedia.org/articles/fabry-disease-neurological-manifestations)  
 [Sandhoff Disease](https://radiopaedia.org/articles/sandhoff-disease)  

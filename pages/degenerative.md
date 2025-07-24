@@ -79,6 +79,8 @@ input:checked + .slider:before {
 
 ### Degenerative disease
 
+[Tdp 43 Proteinopathy](https://radiopaedia.org/articles/tdp-43-proteinopathy)  
+[Cingulate Island Sign](https://radiopaedia.org/articles/cingulate-island-sign)  
 [Bright Tongue Sign](https://radiopaedia.org/articles/bright-tongue-sign)  
 [Progressive Muscular Atrophy](https://radiopaedia.org/articles/progressive-muscular-atrophy-2)  
 [Progressive Encephalomyelitis With Rigidity And Myoclonus](https://radiopaedia.org/articles/progressive-encephalomyelitis-with-rigidity-and-myoclonus)  
