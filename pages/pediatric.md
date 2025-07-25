@@ -116,6 +116,8 @@ input:checked + .slider:before {
 
 ## Leukodystrophies
 
+### Pediatric onset
+
 [Metachromatic Leukodystrophy](https://radiopaedia.org/articles/metachromatic-leukodystrophy)  
 [X Linked Adrenoleukodystrophy](https://radiopaedia.org/articles/x-linked-adrenoleukodystrophy-1)  
 [Cockayne Syndrome](https://radiopaedia.org/articles/cockayne-syndrome)  
@@ -123,6 +125,10 @@ input:checked + .slider:before {
 [Chipmunk Sign Brainstem](https://radiopaedia.org/articles/chipmunk-sign-brainstem)  
 [Hypomyelination With Brainstem And Spinal Cord Involvement And Leg Spasticity](https://radiopaedia.org/articles/hypomyelination-with-brainstem-and-spinal-cord-involvement-and-leg-spasticity)  
 [Clcn2 Related Leukoencephalopathy](https://radiopaedia.org/articles/clcn2-related-leukoencephalopathy)  
+
+### Adult onset
+
+[Leukoencephalopathy Due To Autosomal Recessive Mutations In The Mitochondrial Alanyl Transfer Rna Trna Synthetase Gene Aars2 L](https://radiopaedia.org/articles/leukoencephalopathy-due-to-autosomal-recessive-mutations-in-the-mitochondrial-alanyl-transfer-rna-trna-synthetase-gene-aars2-l-1)  
 
 ## Infective disease
 
@@ -224,6 +230,10 @@ input:checked + .slider:before {
 [Multiple Endocrine Neoplasia Type 4](https://radiopaedia.org/articles/multiple-endocrine-neoplasia-type-4)  
 [Multiple Endocrine Neoplasia Type 5](https://radiopaedia.org/articles/multiple-endocrine-neoplasia-type-5)  
 
+### Metabolic disease
+
+[Ornithine Transcarbamylase Deficiency](https://radiopaedia.org/articles/ornithine-transcarbamylase-deficiency)  
+
 ## Phakomatoses
 
 [Phakomatoses](https://radiopaedia.org/articles/phakomatoses-1)  
@@ -232,6 +242,7 @@ input:checked + .slider:before {
 
 ## Vascular malformation syndromes
 
+[Tilted Telephone Receiver Sign](https://radiopaedia.org/articles/tilted-telephone-receiver-sign)  
 [Wyburn Mason Syndrome](https://radiopaedia.org/articles/wyburn-mason-syndrome)  
 [Multisystemic Smooth Muscle Dysfunction Syndrome](https://radiopaedia.org/articles/multisystemic-smooth-muscle-dysfunction-syndrome)  
 

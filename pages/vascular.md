@@ -113,6 +113,7 @@ input:checked + .slider:before {
 [Calcified Cerebral Embolus](https://radiopaedia.org/articles/calcified-cerebral-embolus-1)  
 [Expanded Treatment In Cerebral Infarction Etici Score](https://radiopaedia.org/articles/expanded-treatment-in-cerebral-infarction-etici-score)  
 [Heidelberg Bleeding Classification](https://radiopaedia.org/articles/heidelberg-bleeding-classification-1)  
+[Depth Of Fissure Sign](https://radiopaedia.org/articles/depth-of-fissure-sign-1)  
 
 ## Anoxyc damage and cerebral death
 
@@ -129,6 +130,7 @@ input:checked + .slider:before {
 [Edinburgh Criteria For Lobar Intracerebral Haemorrhage Associated With Cerebral Amyloid Angiopathy](https://radiopaedia.org/articles/edinburgh-criteria-for-lobar-intracerebral-haemorrhage-associated-with-cerebral-amyloid-angiopathy)  
 [Terson Syndrome](https://radiopaedia.org/articles/terson-syndrome)  
 [Kernohan Phenomenon](https://radiopaedia.org/articles/kernohan-phenomenon)  
+[Morel Laminar Sclerosis](https://radiopaedia.org/articles/morel-laminar-sclerosis)  
 
 ### Complications of intracerebral hemorrhage
 

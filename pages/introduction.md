@@ -553,6 +553,7 @@ input:checked + .slider:before {
 [Superior Cerebral Veins](https://radiopaedia.org/articles/superior-cerebral-veins)  
 [Great Cerebral Vein](https://radiopaedia.org/articles/great-cerebral-vein-1)  
 [Inferior Petro Occipital Vein](https://radiopaedia.org/articles/inferior-petro-occipital-vein)  
+[Superior Petrosal Vein](https://radiopaedia.org/articles/superior-petrosal-vein-2)  
 [Condylar Emissary Veins](https://radiopaedia.org/articles/condylar-emissary-veins)  
 [Internal Carotid Artery Venous Plexus Of Rektorzik](https://radiopaedia.org/articles/internal-carotid-artery-venous-plexus-of-rektorzik)  
 [Superior Ophthalmic Vein](https://radiopaedia.org/articles/superior-ophthalmic-vein)  
@@ -936,6 +937,7 @@ input:checked + .slider:before {
 [Numb Chin Syndrome](https://radiopaedia.org/articles/numb-chin-syndrome)  
 [Garcin Syndrome](https://radiopaedia.org/articles/garcin-syndrome)  
 [Cestan Chenais Syndrome](https://radiopaedia.org/articles/cestan-chenais-syndrome)  
+[Apoplexy](https://radiopaedia.org/articles/apoplexy)  
 [Csf Alpha Fetoprotein](https://radiopaedia.org/articles/csf-alpha-fetoprotein-1)  
 
 ### Neurodegenerative disease

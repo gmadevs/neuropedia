@@ -78,6 +78,7 @@ input:checked + .slider:before {
 [Bilateral Thinning Of The Parietal Bones](https://radiopaedia.org/articles/bilateral-thinning-of-the-parietal-bones)  
 [Internal Auditory Canal Diverticulum](https://radiopaedia.org/articles/internal-auditory-canal-diverticulum)  
 [Sellar Spine](https://radiopaedia.org/articles/sellar-spine)  
+[Bridging Of The Sella Turcica](https://radiopaedia.org/articles/bridging-of-the-sella-turcica)  
 
 ### Brain
 

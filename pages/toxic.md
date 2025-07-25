@@ -90,6 +90,7 @@ input:checked + .slider:before {
 [Delayed Posthypoxic Leukoencephalopathy](https://radiopaedia.org/articles/delayed-posthypoxic-leukoencephalopathy)  
 [Levamisole Induced Leukoencephalopathy](https://radiopaedia.org/articles/levamisole-induced-leukoencephalopathy)  
 [Vigabatrin Associated Toxicity](https://radiopaedia.org/articles/vigabatrin-associated-toxicity)  
+[Opioid Associated Amnestic Syndrome](https://radiopaedia.org/articles/opioid-associated-amnestic-syndrome)  
 [Cerebellar Hippocampal And Basal Nuclei Transient Oedema With Restricted Diffusion Chanter Syndrome](https://radiopaedia.org/articles/cerebellar-hippocampal-and-basal-nuclei-transient-oedema-with-restricted-diffusion-chanter-syndrome-1)  
 [Minamata Disease](https://radiopaedia.org/articles/minamata-disease-1)  
 [React Syndrome](https://radiopaedia.org/articles/react-syndrome)  
